@@ -1,0 +1,28 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,SJW,SJL,MaxW,MaxL,AvgW,AvgL
+1,Brisbane,Brisbane International,12/31/12,ATP250,Outdoor,Hard,1st Round,3,Mayer F.,Giraldo S.,28,57,1215,778,6,4,6,4,,,,,,,2,0,Completed,1.36,3,1.45,2.65,1.44,2.62,1.47,2.85,1.44,2.63,1.47,3.2,1.42,2.78
+1,Brisbane,Brisbane International,12/31/12,ATP250,Outdoor,Hard,1st Round,3,Nieminen J.,Benneteau J.,41,35,927,1075,6,3,2,6,6,1,,,,,2,1,Completed,1.61,2.2,1.75,2,1.8,1.91,1.8,2.1,1.73,2,1.8,2.26,1.73,2.05
+1,Brisbane,Brisbane International,12/31/12,ATP250,Outdoor,Hard,1st Round,3,Nishikori K.,Matosevic M.,19,49,1830,845,7,5,6,2,,,,,,,2,0,Completed,1.25,3.75,1.25,3.75,1.29,3.5,1.3,3.85,1.3,3.2,1.3,4.2,1.28,3.58
+1,Brisbane,Brisbane International,12/31/12,ATP250,Outdoor,Hard,1st Round,3,Baghdatis M.,Mitchell B.,36,326,1070,137,6,4,6,4,,,,,,,2,0,Completed,1.07,9,1.06,8,1.08,7,1.08,9.43,1.07,7,1.1,9.5,1.08,7.76
+1,Brisbane,Brisbane International,1/1/13,ATP250,Outdoor,Hard,1st Round,3,Istomin D.,Klizan M.,43,30,897,1175,6,1,6,2,,,,,,,2,0,Completed,1.9,1.8,1.87,1.87,1.91,1.8,1.88,2,1.91,1.8,2.05,2,1.88,1.85
+1,Brisbane,Brisbane International,1/1/13,ATP250,Outdoor,Hard,1st Round,3,Millman J.,Ito T.,199,79,239,655,6,4,6,1,,,,,,,2,0,Completed,1.61,2.2,1.75,2,1.73,2,1.7,2.27,1.8,1.91,1.85,2.28,1.71,2.08
+1,Brisbane,Brisbane International,1/1/13,ATP250,Outdoor,Hard,1st Round,3,Falla A.,Levine J.,54,104,809,530,6,1,7,6,,,,,,,2,0,Completed,2.2,1.61,2.08,1.67,1.91,1.8,2.26,1.7,2,1.73,2.32,1.83,2.08,1.7
+1,Brisbane,Brisbane International,1/1/13,ATP250,Outdoor,Hard,1st Round,3,Melzer J.,Kudla D.,29,137,1177,402,2,6,6,4,6,4,,,,,2,1,Completed,1.44,2.62,1.55,2.35,1.44,2.62,1.6,2.47,1.5,2.5,1.63,2.82,1.52,2.46
+1,Brisbane,Brisbane International,1/1/13,ATP250,Outdoor,Hard,1st Round,3,Robredo T.,Harrison R.,114,69,495,710,6,4,7,6,,,,,,,2,0,Completed,3,1.36,2.5,1.5,2.38,1.53,2.93,1.45,2.5,1.5,3.25,1.53,2.66,1.47
+1,Brisbane,Brisbane International,1/1/13,ATP250,Outdoor,Hard,1st Round,3,Dimitrov G.,Baker B.,48,61,866,756,6,3,7,6,,,,,,,2,0,Completed,1.36,3,1.4,2.8,1.44,2.62,1.38,3.3,1.4,2.75,1.45,3.55,1.39,2.87
+1,Brisbane,Brisbane International,1/1/13,ATP250,Outdoor,Hard,1st Round,3,Goffin D.,Ebden M.,46,105,868,529,6,2,6,2,,,,,,,2,0,Completed,1.57,2.25,1.55,2.35,1.53,2.38,1.65,2.36,1.53,2.38,1.67,2.4,1.59,2.29
+1,Brisbane,Brisbane International,1/1/13,ATP250,Outdoor,Hard,1st Round,3,Hewitt L.,Kunitsyn I.,83,162,625,339,6,3,4,6,6,2,,,,,2,1,Completed,1.2,4.33,1.17,4.65,1.22,4,1.28,4.02,1.2,4,1.28,4.65,1.22,4.07
+1,Brisbane,Brisbane International,1/2/13,ATP250,Outdoor,Hard,2nd Round,3,Simon G.,Falla A.,16,54,2165,809,7,6,7,6,,,,,,,2,0,Completed,1.22,4,1.25,3.75,1.25,3.75,1.29,4.01,1.22,3.75,1.29,4.6,1.26,3.73
+1,Brisbane,Brisbane International,1/2/13,ATP250,Outdoor,Hard,2nd Round,3,Baghdatis M.,Mayer F.,36,28,1070,1215,6,4,6,2,,,,,,,2,0,Completed,1.44,2.62,1.5,2.5,1.57,2.25,1.52,2.73,1.53,2.38,1.57,3.2,1.51,2.5
+1,Brisbane,Brisbane International,1/2/13,ATP250,Outdoor,Hard,2nd Round,3,Nishikori K.,Robredo T.,19,114,1830,495,6,3,6,3,,,,,,,2,0,Completed,1.22,4,1.25,3.75,1.29,3.5,1.27,4.18,1.25,3.5,1.29,5.1,1.25,3.84
+1,Brisbane,Brisbane International,1/2/13,ATP250,Outdoor,Hard,2nd Round,3,Dolgopolov O.,Nieminen J.,18,41,1855,927,6,2,4,1,,,,,,,1,0,Retired,1.44,2.62,1.5,2.5,1.5,2.5,1.55,2.64,1.53,2.38,1.57,2.73,1.49,2.52
+1,Brisbane,Brisbane International,1/3/13,ATP250,Outdoor,Hard,2nd Round,3,Dimitrov G.,Raonic M.,48,13,866,2380,6,3,6,4,,,,,,,2,0,Completed,2.75,1.4,2.65,1.45,2.75,1.4,2.83,1.49,2.75,1.4,3.5,1.5,2.73,1.43
+1,Brisbane,Brisbane International,1/3/13,ATP250,Outdoor,Hard,2nd Round,3,Melzer J.,Goffin D.,29,46,1177,868,6,4,7,6,,,,,,,2,0,Completed,2.25,1.57,2.25,1.6,2.2,1.62,2.41,1.64,2.2,1.62,2.88,1.67,2.23,1.62
+1,Brisbane,Brisbane International,1/3/13,ATP250,Outdoor,Hard,2nd Round,3,Istomin D.,Hewitt L.,43,83,897,625,7,5,7,5,,,,,,,2,0,Completed,1.83,1.83,2,1.75,1.83,1.83,1.96,1.94,1.9,1.9,2.05,2.04,1.93,1.82
+1,Brisbane,Brisbane International,1/3/13,ATP250,Outdoor,Hard,2nd Round,3,Murray A.,Millman J.,3,199,8000,239,6,1,5,7,6,3,,,,,2,1,Completed,1.02,17,1.02,12,1.04,9,1.03,17.5,1.03,10,1.04,23.75,1.03,13.63
+1,Brisbane,Brisbane International,1/4/13,ATP250,Outdoor,Hard,Quarterfinals,3,Baghdatis M.,Simon G.,36,16,1070,2165,6,3,6,4,,,,,,,2,0,Completed,1.57,2.25,1.65,2.15,,,1.7,2.32,1.67,2.2,2,2.52,1.66,2.18
+1,Brisbane,Brisbane International,1/4/13,ATP250,Outdoor,Hard,Quarterfinals,3,Nishikori K.,Dolgopolov O.,19,18,1830,1855,6,4,7,6,,,,,,,2,0,Completed,1.61,2.2,1.65,2.15,1.73,2,1.7,2.31,1.67,2.25,1.73,2.35,1.65,2.18
+1,Brisbane,Brisbane International,1/4/13,ATP250,Outdoor,Hard,Quarterfinals,3,Dimitrov G.,Melzer J.,48,29,866,1177,6,3,6,2,,,,,,,2,0,Completed,1.4,2.75,1.4,2.8,,,1.43,3.14,1.44,2.75,1.5,3.25,1.43,2.77
+1,Brisbane,Brisbane International,1/4/13,ATP250,Outdoor,Hard,Quarterfinals,3,Murray A.,Istomin D.,3,43,8000,897,6,4,7,6,,,,,,,2,0,Completed,1.11,6.5,1.11,6,,,1.11,8.36,1.1,7,1.12,8.4,1.1,6.71
+1,Brisbane,Brisbane International,1/5/13,ATP250,Outdoor,Hard,Semifinals,3,Dimitrov G.,Baghdatis M.,48,36,866,1070,6,3,5,7,7,6,,,,,2,1,Completed,1.72,2,1.8,1.95,,,1.88,2.04,1.8,2,1.88,2.12,1.78,1.98
+1,Brisbane,Brisbane International,1/5/13,ATP250,Outdoor,Hard,Semifinals,3,Murray A.,Nishikori K.,3,19,8000,1830,6,4,2,0,,,,,,,1,0,Retired,1.18,4.5,1.16,4.75,,,1.26,4.47,1.17,5,1.27,5,1.2,4.44
+1,Brisbane,Brisbane International,1/6/13,ATP250,Outdoor,Hard,The Final,3,Murray A.,Dimitrov G.,3,48,8000,866,7,6,6,4,,,,,,,2,0,Completed,1.14,5.5,1.15,5,1.17,5,1.16,6.27,1.17,5,1.18,6.7,1.16,5.23

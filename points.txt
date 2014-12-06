@@ -1,0 +1,10 @@
+Tennis bracket predictor:
+
+- Get the starting men's singles draw and list all the first round games.
+- Have the number of games for winner and loser
+- Data point is going to be a game -> points of each player
+- Need to predict the points each player will get in a game
+- Correlation between the game play of each player: player's score depends on the other player
+- Each player has an offense and defense vector that we want to predict
+- Once we have the vector, we can compute the number of games each player will win in the match
+- Need to figure out how to factor in other features like type of court, head to head
