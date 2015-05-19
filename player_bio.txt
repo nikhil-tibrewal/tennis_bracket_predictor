@@ -1,0 +1,1094 @@
+Djokovic N.,Serbia,Novak-Djokovic,22.05.1987,188,80,Right,2003
+Federer R.,Switzerland,Roger-Federer,08.08.1981,185,85,Right,1998
+Nadal R.,Spain,Rafael-Nadal,03.06.1986,185,85,Left,2001
+Wawrinka S.,Switzerland,Stan-Wawrinka,28.03.1985,183,81,Right,2002
+Nishikori K.,Japan,Kei-Nishikori,29.12.1989,178,74,Right,2007
+Murray A.,Great Britain,Andy-Murray,15.05.1987,190,84,Right,2005
+Berdych T.,Czech Republic,Tomas-Berdych,17.09.1985,196,91,Right,2002
+Raonic M.,Canada,Milos-Raonic,27.12.1990,196,98,Right,2008
+Cilic M.,Croatia,Marin-Cilic,28.09.1988,198,82,Right,2005
+Ferrer D.,Spain,David-Ferrer,02.04.1982,175,73,Right,2000
+Dimitrov G.,Bulgaria,Grigor-Dimitrov,16.05.1991,190,80,Right,2008
+Tsonga J.W.,France,Jo-Wilfried-Tsonga,17.04.1985,188,91,Right,2004
+Gulbis E.,Latvia,Ernests-Gulbis,30.08.1988,190,85,Right,2004
+Lopez F.,Spain,Feliciano-Lopez,20.09.1981,188,85,Left,1997
+Bautista R.,Spain,Roberto-Bautista-Agut,14.04.1988,183,76,Right
+Anderson K.,South Africa,Kevin-Anderson,18.05.1986,203,89,Right,2007
+Robredo T.,Spain,Tommy-Robredo,01.05.1982,180,75,Right,1998
+Monfils G.,France,Gael-Monfils,01.09.1986,193,80,Right,2004
+Isner J.,United States,John-Isner,26.04.1985,208,108,Right,2007
+Fognini F.,Italy,Fabio-Fognini,24.05.1987,178,74,Right,2004
+Simon G.,France,Gilles-Simon,27.12.1984,183,70,Right,2002
+Goffin D.,Belgium,David-Goffin,07.12.1990,180,68,Right,2009
+Dolgopolov A.,Ukraine,Alexandr-Dolgopolov,07.11.1988,180,71,Right,2006
+Kohlschreiber P.,Germany,Philipp-Kohlschreiber,16.10.1983,178,70,Right,2001
+Benneteau J.,France,Julien-Benneteau,20.12.1981,185,79,Right,2000
+Gasquet R.,France,Richard-Gasquet,18.06.1986,185,75,Right,2002
+Karlovic I.,Croatia,Ivo-Karlovic,28.02.1979,211,104,Right,2000
+Mayer L.,Argentina,Leonardo-Mayer,15.05.1987,188,83,Right,2003
+Chardy J.,France,Jeremy-Chardy,12.02.1987,188,75,Right,2005
+Cuevas P.,Uruguay,Pablo-Cuevas,01.01.1986,180,80,Right,2004
+Rosol L.,Czech Republic,Lukas-Rosol,24.07.1985,196,81,Right,2004
+Giraldo S.,Colombia,Santiago-Giraldo,27.11.1987,188,75,Right,2004
+Verdasco F.,Spain,Fernando-Verdasco,15.11.1983,188,88,Left,2001
+Klizan M.,Slovakia,Martin-Klizan,11.07.1989,188,75,Left,2007
+Querrey S.,United States,Sam-Querrey,07.10.1987,198,91,Right,2006
+Garcia-Lopez G.,Spain,Guillermo-Garcia-Lopez,04.06.1983,188,82,2002
+Johnson S.,United States,Steve-Johnson,24.12.1989,188,86,Right,2012
+Lu Y.H.,CHINESE TAIPEI ( TAIWAN ),Yen-Hsun-Lu,14.08.1983,180,74,Right,2001
+Thiem D.,Austria,Dominic-Thiem,03.09.1993,185,82,Right,2011
+Becker B.,Germany,Benjamin-Becker,16.06.1981,178,72,Right,2005
+Andujar P.,Spain,Pablo-Andujar,23.01.1986,180,76,Right
+Sock J.,United States,Jack-Sock,24.09.1992,190,84,Right,2011
+Janowicz J.,Poland,Jerzy-Janowicz,13.11.1990,203,91,Right,2007
+Mannarino A.,France,Adrian-Mannarino,29.06.1988,183,69,Left,2005
+Seppi A.,Italy,Andreas-Seppi,21.02.1984,190,75,Right,2002
+Granollers M.,Spain,Marcel-Granollers,12.04.1986,190,77,Right,2003
+Muller G.,Luxembourg,Gilles-Muller,09.05.1983,193,92,Left,2001
+Youzhny M.,Russian Federation,Mikhail-Youzhny,25.06.1982,183,73,Right,1999
+Istomin D.,Uzbekistan,Denis-Istomin,07.09.1986,188,88,Right,2004
+Hewitt L.,Australia,Lleyton-Hewitt,24.02.1981,180,77,Right,1998
+Carreno-Busta P.,Spain,Pablo-Carreno-Busta,12.07.1991,188,74,Right,2009
+Kyrgios N.,Australia,Nick-Kyrgios,27.04.1995,193,83,Right,2013
+Pospisil V.,Canada,Vasek-Pospisil,23.06.1990,193,84,Right,2007
+Sousa J.,Portugal,Joao-Sousa,30.03.1989,185,73,Right,2005
+Bolelli S.,Italy,Simone-Bolelli,08.10.1985,183,83,Right,2003
+Tomic B.,Australia,Bernard-Tomic,21.10.1992,196,91,Right,2008
+Young D.,United States,Donald-Young,23.07.1989,183,79,Left,2004
+Stakhovsky S.,Ukraine,Sergiy-Stakhovsky,06.01.1986,193,80,Right,2003
+Struff J.L.,Germany,Jan-Lennard-Struff,25.04.1990,196,87,Right,2009
+Delbonis F.,Argentina,Federico-Delbonis,05.10.1990,190,88,Left,2007
+Schwartzman D.,Argentina,Diego-Schwartzman,16.08.1992,170,64,Right,2010
+Monaco J.,Argentina,Juan-Monaco,29.03.1984,185,81,Right,2002
+Ramos-Vinolas A.,Spain,Albert-Ramos-Vinolas,17.01.1988,188,80,Left,2007
+Lorenzi P.,Italy,Paolo-Lorenzi,15.12.1981,183,77,Right,2003
+Bellucci T.,Brazil,Thomaz-Bellucci,30.12.1987,188,82,Left,2005
+Vesely J.,Czech Republic,Jiri-Vesely,10.07.1993,198,90,Left,2009
+Gabashvili T.,Russian Federation,Teymuraz-Gabashvili,23.05.1985,188,83,Right,2001
+Stepanek R.,Czech Republic,Radek-Stepanek,27.11.1978,185,76,Right,1996
+Lajovic D.,Serbia,Dusan-Lajovic,30.06.1990,183,79,Right,2007
+Kukushkin M.,Kazakhstan,Mikhail-Kukushkin,26.12.1987,183,72,Right,2006
+Almagro N.,Spain,Nicolas-Almagro,21.08.1985,183,84,Right,2003
+Berlocq C.,Argentina,Carlos-Berlocq,03.02.1983,183,81,Right,2001
+Nieminen J.,Finland,Jarkko-Nieminen,23.07.1981,185,78,Left,2000
+Golubev A.,Kazakhstan,Andrey-Golubev,22.07.1987,185,77,Right,2005
+Matosevic M.,Australia,Marinko-Matosevic,08.08.1985,193,86,Right,2003
+Jaziri M.,Tunisia,Malek-Jaziri,20.01.1984,185,80,Right,2003
+Haas T.,Germany,Tommy-Haas,03.04.1978,188,84,Right,1996
+Estrella Burgos V.,Dominican Republic,Victor-Estrella-Burgos,02.08.1980,173,77,Right,2002
+Gojowczyk P.,Germany,Peter-Gojowczyk,15.07.1989,185,83,Right,2006
+Rola B.,Slovenia,Blaz-Rola,05.10.1990,193,79,Left,2014
+Groth S.,Australia,Sam-Groth,19.10.1987,193,98,Right,2006
+Haider-Maurer A.,Austria,Andreas-Haider-Maurer,22.03.1987,190,89,Right,2005
+Haase R.,Netherlands,Robin-Haase,06.04.1987,190,77,Right,2005
+Sijsling I.,Netherlands,Igor-Sijsling,18.08.1987,190,87,Right,2006
+Baghdatis M.,Cyprus,Marcos-Baghdatis,17.06.1985,178,82,Right,2003
+Berankis R.,Lithuania,Ricardas-Berankis,21.06.1990,175,70,Right,2007
+Roger-Vasselin E.,France,Edouard-Roger-Vasselin,28.11.1983,188,75,Right,2002
+Falla A.,Colombia,Alejandro-Falla,14.11.1983,185,77,Left,2000
+Brown D.,Germany,Dustin-Brown,08.12.1984,196,78,Right,2002
+Souza J.,Brazil,Joao-Souza,27.05.1988,190,90,Right,2006
+Gonzalez A.,Colombia,Alejandro-Gonzalez,07.02.1989,190,83,Right,2006
+Kuznetsov A.,Russian Federation,Andrey-Kuznetsov,22.02.1991,185,71,Right,2008
+Ito T.,Japan,Tatsuma-Ito,18.05.1988,180,75,Right,2006
+Lacko L.,Slovakia,Lukas-Lacko,03.11.1987,185,85,Right,2005
+Dodig I.,Croatia,Ivan-Dodig,02.01.1985,183,83,Right,2004
+Coric B.,Croatia,Borna-Coric,14.11.1996,185,79,Right,2013
+Mathieu P.H.,France,Paul-Henri-Mathieu,12.01.1982,185,74,Right,1999
+Kamke T.,Germany,Tobias-Kamke,21.05.1986,178,74,Right,2004
+Sela D.,Israel,Dudi-Sela,04.04.1985,175,65,Right,2002
+Soeda G.,Japan,Go-Soeda,05.09.1984,178,73,Right,2003
+Krajinovic F.,Serbia,Filip-Krajinovic,27.02.1992,185,75,Right,2008
+Troicki V.,Serbia,Viktor-Troicki,10.02.1986,193,86,Right,2006
+Gonzalez M.,Argentina,Maximo-Gonzalez,20.07.1983,175,70,Right,2002
+Ilhan M.,Turkey,Marsel-Ilhan,11.06.1987,190,78,Right,2006
+Kavcic B.,Slovenia,Blaz-Kavcic,05.03.1987,188,79,Right,2005
+De Schepper K.,France,Kenny-De-Schepper,29.05.1987,203,102,Left,2010
+Ward J.,Great Britain,James-Ward,09.02.1987,190,72,Right,2006
+Montanes A.,Spain,Albert-Montanes,26.11.1980,175,70,Right,1999
+Dzumhur D.,Bosnia and Herzegovina,Damir-Dzumhur,20.05.1992,175,70,Right,2011
+Tursunov D.,Russian Federation,Dmitry-Tursunov,12.12.1982,185,82,Right,2000
+Herbert P.H.,France,Pierre-Hugues-Herbert,18.03.1991,183,79,Right,2010
+Gimeno-Traver D.,Spain,Daniel-Gimeno-Traver,07.08.1985,183,80,Right,2004
+Melzer J.,Austria,Jurgen-Melzer,22.05.1981,183,81,Left,1999
+Riba P.,Spain,Pere-Riba,07.04.1988,183,80,Right,2004
+Smyczek T.,United States,Tim-Smyczek,30.12.1987,175,73,Right,2006
+Beck A.,Germany,Andreas-Beck,05.02.1986,190,90,Left,2003
+Mahut N.,France,Nicolas-Mahut,21.01.1982,190,80,Right,2000
+Paire B.,France,Benoit-Paire,08.05.1989,196,80,Right,2007
+Kudryavtsev A.,Russian Federation,Alexander-Kudryavtsev,26.10.1985,183,75,Right
+Dustov F.,Uzbekistan,Farrukh-Dustov,22.05.1986,193,89,Right,2003
+Kudla D.,United States,Denis-Kudla,17.08.1992,180,75,Right
+Hanescu V.,Romania,Victor-Hanescu,21.07.1981,198,88,Right,2000
+Zeballos H.,Argentina,Horacio-Zeballos,27.04.1985,188,83,Left,2003
+Wang J.,CHINESE TAIPEI ( TAIWAN ),Jimmy-Wang,08.02.1985,180,73,Right,2001
+Bagnis F.,Argentina,Facundo-Bagnis,27.02.1990,183,82,Left,2008
+Gombos N.,Slovakia,Norbert-Gombos,13.08.1990,196,85,Right,2009
+Duckworth J.,Australia,James-Duckworth,21.01.1992,183,82,Right,2007
+Berrer M.,Germany,Michael-Berrer,01.07.1980,193,100,Left,1999
+Nedovyesov A.,Kazakhstan,Aleksandr-Nedovyesov,15.02.1987,193,81,Right,2005
+Donskoy E.,Russian Federation,Evgeny-Donskoy,09.05.1990,185,74,Right
+Sugita Y.,Japan,Yuichi-Sugita,18.09.1988,Right
+Elias G.,Portugal,Gastao-Elias,24.11.1990,180,76,Right
+Pouille L.,France,Lucas-Pouille,23.02.1994,185,81,Right,2012
+Robert S.,France,Stephane-Robert,17.05.1980,185,77,Right,2001
+Menendez-Maceiras A.,Spain,Adrian-Menendez-Maceiras,28.10.1985,185,78,Right,2005
+Kubler J.,Australia,Jason-Kubler,19.05.1993,Right
+Zverev A.,Germany,Alexander-Zverev,20.04.1997,198,86,Right,2013
+Del Potro J.M.,Argentina,Juan-Martin-Del-Potro,23.09.1988,198,97,Right,2005
+Devvarman S.,India,Somdev-Devvarman,13.02.1985,180,73,Right,2008
+Ram R.,United States,Rajeev-Ram,18.03.1984,193,82,Right,2004
+Bachinger M.,Germany,Matthias-Bachinger,02.04.1987,188,83,Right,2005
+Arguello F.,Argentina,Facundo-Arguello,04.08.1992,178,77,Right
+Marchenko I.,Ukraine,Illya-Marchenko,08.09.1987,185,78,Right
+De Bakker T.,Netherlands,Thiemo-de-Bakker,19.09.1988,193,83,Right
+Bedene A.,Slovenia,Aljaz-Bedene,18.07.1989,183,72,Right,2008
+Moriya H.,Japan,Hiroki-Moriya,16.10.1990,165,65,Right
+Mayer F.,Germany,Florian-Mayer,05.10.1983,190,82,Right,2001
+Klahn B.,United States,Bradley-Klahn,20.08.1990,183,75,Left,2012
+Dancevic F.,Canada,Frank-Dancevic,26.09.1984,185,79,Right,2003
+Kokkinakis T.,Australia,Thanasi-Kokkinakis,10.04.1996,196,80,Right
+Vanni L.,Italy,Luca-Vanni,04.06.1985,Right
+Krajicek A.,United States,Austin-Krajicek,16.06.1990,188,79,Left,2012
+Nishioka Y.,Japan,Yoshihito-Nishioka,27.09.1995,170,63,Right
+Delic M.,Croatia,Mate-Delic,29.04.1993,196,86,Right
+Millot V.,France,Vincent-Millot,30.01.1986,173,75,Left,2007
+Pella G.,Argentina,Guido-Pella,17.05.1990,185,83,Left,2007
+Millman J.,Australia,John-Millman,14.06.1989,183,Right,2006
+Ungur A.,Romania,Adrian-Ungur,22.01.1985,178,73,Right,2003
+Russell M.,United States,Michael-Russell,01.05.1978,173,70,Right,1998
+Cecchinato M.,Italy,Marco-Cecchinato,30.09.1992,185,78,Right,2011
+Darcis S.,Belgium,Steve-Darcis,13.03.1984,178,73,Right,2003
+Fucsovics M.,Hungary,Marton-Fucsovics,08.02.1992,188,80
+Melzer G.,Austria,Gerald-Melzer,13.07.1990,188,85,Left
+Starace P.,Italy,Potito-Starace,14.07.1981,188,84,Right,2001
+Saville L.,Australia,Luke-Saville,02.01.1994,188,85,Right
+Ghem A.,Brazil,Andre-Ghem,29.05.1982,193,86,Right,2003
+Carballes Baena R.,Spain,Roberto-Carballes-Baena,23.03.1993,180,76,Right
+Albot R.,Moldova, Republic of,Radu-Albot,11.11.1989,175,70,Right
+Pavic A.,Croatia,Ante-Pavic,07.03.1989,196,97,Right
+Kubot L.,Poland,Lukasz-Kubot,16.05.1982,190,86,Right,2002
+Odesnik W.,United States,Wayne-Odesnik,21.11.1985,180,77,Left,2004
+Copil M.,Romania,Marius-Copil,17.10.1990,190,86,Right,2008
+Chung H.,Korea, Republic of,Hyeon-Chung,19.05.1996,Right
+Przysiezny M.,Poland,Michal-Przysiezny,16.02.1984,185,84,Right,2001
+Molchanov D.,Ukraine,Denys-Molchanov,16.05.1987,190,82,Right
+Bemelmans R.,Belgium,Ruben-Bemelmans,14.01.1988,Left
+Daniel T.,Japan,Taro-Daniel,27.01.1993,190,76,Right,2010
+Martin A.,Slovakia,Andrej-Martin,20.09.1989,180,72,Right
+Coppejans K.,Belgium,Kimmer-Coppejans,07.02.1994,Right
+Arnaboldi A.,Italy,Andrea-Arnaboldi,27.12.1987,175,73,Left,2006
+Kuznetsov A.,United States,Alex-Kuznetsov,05.02.1987,183,76,Right,2004
+Reister J.,Germany,Julian-Reister,02.04.1986,188,87,Right,2005
+Zhang Z.,China,Ze-Zhang,04.07.1990,188,83,Right,2005
+Polansky P.,Canada,Peter-Polansky,15.06.1988,180,70,Right,2006
+Puetz T.,Germany,Tim-Puetz,19.11.1987,Right
+Andreozzi G.,Argentina,Guido-Andreozzi,05.08.1991,183,80,Right,2008
+Zopp J.,Estonia,Jurgen-Zopp,29.03.1988,190,88,Right,2008
+Viola M.,Italy,Matteo-Viola,07.07.1987,188,80,Right,2004
+Harrison R.,United States,Ryan-Harrison,07.05.1992,188,84,Right,2007
+Buchanan C.,United States,Chase-Buchanan,04.06.1991,Right
+Basilashvili N.,Georgia,Nikoloz-Basilashvili,23.02.1992,185,75,Right
+Jenkins J.,United States,Jarmere-Jenkins,25.11.1990,180,77,Right
+Edmund K.,Great Britain,Kyle-Edmund,08.01.1995,Right
+Huta Galung J.,Netherlands,Jesse-Huta-Galung,06.10.1985,188,88,Right,2004
+Broady L.,Great Britain,Liam-Broady,04.01.1994,185,73,Left,2014
+Mecir M.,Slovakia,Miloslav-Mecir,20.01.1988,196,88,Right
+Travaglia S.,Italy,Stefano-Travaglia,18.12.1991,185,80,Right
+Hernych J.,Czech Republic,Jan-Hernych,07.07.1979,190,83,Right,1998
+McGee J.,Ireland,James-McGee,10.06.1987,183,80,Right
+Smith J.P.,Australia,John-Patrick-Smith,24.01.1989,188,84,Left,2012
+Kovalik J.,Slovakia,Jozef-Kovalik,04.11.1992,Right
+Bolt A.,Australia,Alex-Bolt,05.01.1993,Left
+Desein N.,Belgium,Niels-Desein,09.06.1987,190,84,Right,2007
+Bozoljac I.,Serbia,Ilija-Bozoljac,02.08.1985,193,86,Right,2002
+Munoz de la Nava D.,Spain,Daniel-Munoz-De-La-Nava,29.01.1982,178,75,Left,1999
+Chen T.,CHINESE TAIPEI ( TAIWAN ),Ti-Chen,03.10.1983,183,70,Right,2002
+Kravchuk K.,Russian Federation,Konstantin-Kravchuk,23.02.1985,190,80,Right,2004
+Guez D.,France,David-Guez,08.12.1982,185,75,Right
+Podlipnik H.,Chile,Hans-Podlipnik-Castillo,09.01.1988,Right
+Chiudinelli M.,Switzerland,Marco-Chiudinelli,10.09.1981,188,79,Right,2000
+Volandri F.,Italy,Filippo-Volandri,05.09.1981,183,73,Right,1997
+Mertl J.,Czech Republic,Jan-Mertl,03.01.1982,190,82,Right,2002
+Michon A.,France,Axel-Michon,16.12.1990,Right
+Fischer M.,Austria,Martin-Fischer,21.07.1986,180,71,Right,2005
+Sorensen L.,Ireland,Louk-Sorensen,07.01.1985,175,78,Right,2003
+Karatsev A.,Russian Federation,Aslan-Karatsev,04.09.1993,Right
+Ignatik U.,Belarus,Uladzimir-Ignatik,14.07.1990,183,82,Right,2007
+Williams R.,United States,Rhyne-Williams,22.03.1991,185,84,Right,2011
+Jarry N.,Chile,Nicolas-Jarry,11.10.1995,Right
+Ginepri R.,United States,Robby-Ginepri,07.10.1982,183,79,Right,2001
+Lama G.,Chile,Gonzalo-Lama,27.04.1993,Right
+Ymer E.,Sweden,Elias-Ymer,10.04.1996,183,78,Right
+Lamasine T.,France,Tristan-Lamasine,05.03.1993,Right
+Veic A.,Croatia,Antonio-Veic,18.02.1988,180,74,Right,2006
+Lindell C.,Sweden,Christian-Lindell,20.11.1991,193,87,Right
+Ebden M.,Australia,Matthew-Ebden,26.11.1987,188,78,Right
+Londero J.I.,Argentina,Juan-Ignacio-Londero,15.08.1993,Right
+Marcora R.,Italy,Roberto-Marcora,30.08.1989,193,82,Right,2009
+Setkic A.,Bosnia and Herzegovina,Aldin-Setkic,21.12.1987,193,84,Right
+Westerhof B.,Netherlands,Boy-Westerhof,24.10.1985,185,80,Right,2006
+De Greef A.,Belgium,Arthur-De-Greef,27.03.1992,Right
+Corrie E.,Great Britain,Edward-Corrie,21.02.1988,Right
+Mitchell B.,Australia,Benjamin-Mitchell,30.11.1992,Right,2008
+Couacaud E.,France,Enzo-Couacaud,01.03.1995,Right
+Pavlasek A.,Czech Republic,Adam-Pavlasek,08.10.1994,Right
+Brkic T.,Bosnia and Herzegovina,Tomislav-Brkic,09.03.1990,185,77,Right,2008
+Mina G.,France,Gianni-Mina,09.02.1992,185,77,Right
+Torebko P.,Germany,Peter-Torebko,10.02.1988,185,85,Right,2008
+Cachin P.,Argentina,Pedro-Cachin,12.04.1995,Right
+De Paula F.,Brazil,Fabiano-De-Paula,28.11.1988,Right
+Alund M.,Argentina,Martin-Alund,26.12.1985,183,80,Right
+Eysseric J.,France,Jonathan-Eysseric,27.05.1990,180,80,Left,2008
+Trungelliti M.,Argentina,Marco-Trungelliti,31.01.1990,178,78,Right,2008
+Krstin P.,Serbia,Pedja-Krstin,03.09.1994,183,74,Right
+Ramanathan R.,India,Ramkumar-Ramanathan,08.11.1994,188,77,Right
+Authom M.,Belgium,Maxime-Authom,29.03.1987,Right,o: 0
+Bhambri Y.,India,Yuki-Bhambri,04.07.1992,185,78,Right,2008
+Davydenko N.,Russian Federation,Nikolay-Davydenko,02.06.1981,178,70,Right,1999
+Cervantes I.,Spain,Inigo-Cervantes,30.11.1989,183,78,Right,2009
+Clezar G.,Brazil,Guilherme-Clezar,31.12.1992,183,79,Right,2009
+Klein B.,Great Britain,Brydan-Klein,31.12.1989,188,82,Right,2008
+Langer N.,Germany,Nils-Langer,25.01.1990,193,73,Right
+Fabbiano T.,Italy,Thomas-Fabbiano,26.05.1989,173,70,Right,2005
+Bourgue M.,France,Mathias-Bourgue,18.01.1994,Right
+Yang T.H.,CHINESE TAIPEI ( TAIWAN ),Tsung-Hua-Yang,29.03.1991,178,80,Right,2006
+Mertens Y.,Belgium,Yannick-Mertens,25.06.1987,188,72,Right,2006
+Lokoli L.,France,Laurent-Lokoli,18.10.1994,Right
+Donaldson J.,United States,Jared-Donaldson,09.10.1996,188,70,Right,2014
+Pospisil J.,Czech Republic,Jaroslav-Pospisil,09.02.1981,Right
+Myneni S.,India,Saketh-Myneni,19.10.1987,Right
+Reid M.,Australia,Matt-Reid,17.07.1990,Right
+Fratangelo B.,United States,Bjorn-Fratangelo,19.07.1993,Right
+Gerasimov E.,Belarus,Egor-Gerasimov,11.11.1992,183,84,Right
+Llodra M.,France,Michael-Llodra,18.05.1980,190,80,Left,1999
+Marti Y.,Switzerland,Yann-Marti,07.06.1988,173,Right
+Basic M.,Bosnia and Herzegovina,Mirza-Basic,12.07.1991,188,87,Right
+Marie J.,France,Jules-Marie,01.09.1991,Right
+Olivo R.,Argentina,Renzo-Olivo,15.03.1992,Right
+Thompson J.,Australia,Jordan-Thompson,20.04.1994,183,73,Right,2013
+Velotti A.,Argentina,Agustin-Velotti,24.05.1992,Right
+Cagnina J.,Belgium,Julien-Cagnina,04.06.1994,Right
+Burquier G.,France,Gregoire-Burquier,08.07.1984,Left
+Mektic N.,Croatia,Nikola-Mektic,24.12.1988,Right
+Molteni A.,Argentina,Andres-Molteni,15.03.1988,Right
+Hernandez J.,Dominican Republic,Jose-Hernandez,13.03.1990,Right
+Dellien H.,Bolivia,Hugo-Dellien,16.06.1993,Right
+Kosakowski D.,United States,Daniel-Kosakowski,21.02.1992,185,79,Right,2011
+Dutra Silva R.,Brazil,Rogerio-Dutra-Silva,03.02.1984,178,73,Right,2010
+Struvay E.,Colombia,Eduardo-Struvay,17.12.1990,Right
+Obry J.,France,Julien-Obry,04.09.1991,173,73,Right
+Smethurst D.,Great Britain,Daniel-Smethurst,13.10.1990,188,83,Right,2011
+Vaisse M.,France,Martin-Vaisse,11.08.1987,Right
+Giner M.,Spain,Marc-Giner,18.06.1991,Right
+Safwat M.,Egypt,Mohamed-Safwat,19.09.1990,183,74,Right
+Uchiyama Y.,Japan,Yasutaka-Uchiyama,05.08.1992,Right
+Wu D.,China,Di-Wu,14.09.1991,173,66,Right
+Udomchoke D.,Thailand,Danai-Udomchoke,11.08.1981,173,64,Right,1997
+Androic T.,Croatia,Toni-Androic,28.12.1991,Right,o: 0
+Gigounon G.,Belgium,Germain-Gigounon,20.04.1989,Right
+Machado R.,Portugal,Rui-Machado,10.04.1984,178,65,Right,2002
+Cunha H.,Brazil,Henrique-Cunha,30.04.1990,178,73,Left
+Barrientos N.,Colombia,Nicolas-Barrientos,24.04.1987,175,75,Right,2009
+Cox D.,Great Britain,Daniel-Cox,28.09.1990,170,72,Right,2011
+Garin C.,Chile,Christian-Garin,30.05.1996,183,81,Right
+Semrajc J.,Slovenia,Janez-Semrajc,24.07.1989,Right
+Evans D.,Great Britain,Daniel-Evans,23.05.1990,175,75,Right,2006
+Zhyrmont D.,Belarus,Dzmitry-Zhyrmont,01.03.1989,Right
+Olivetti A.,France,Albano-Olivetti,24.11.1991,203,104,Right,2010
+Bogomolov A.,Russian Federation,Alex-Bogomolov-Jr.,23.04.1983,178,75,Right,2002
+Nguyen D.,United States,Daniel-Nguyen,16.10.1990,Right
+Martin F.,France,Fabrice-Martin,11.09.1986,198,97,Right,2006
+Gaio F.,Italy,Federico-Gaio,05.03.1992,Right
+Smirnov A.,Ukraine,Artem-Smirnov,02.02.1988,Right
+King D.,Barbados,Darian-King,26.04.1992,Right
+Escobar G.,Ecuador,Gonzalo-Escobar,20.01.1989,Left
+Michalicka M.,Czech Republic,Marek-Michalicka,23.12.1986,183,74,Right
+Laaksonen H.,Switzerland,Henri-Laaksonen,31.03.1992,185,80,Right
+Crivoi V.,Romania,Victor-Crivoi,25.05.1982,185,75,Right,2003
+Novak D.,Austria,Dennis-Novak,28.08.1993,Right
+Jung J.,United States,Jason-Jung,15.06.1989,178,68,Right
+Niki T.,Japan,Takuto-Niki,12.10.1987,Right
+Zaitcev A.,Russian Federation,Anton-Zaitcev,22.07.1987,Right
+Musialek A.,France,Alexis-Musialek,04.07.1988,Right
+Propoggia D.,Australia,Dane-Propoggia,24.04.1990,Right
+Lapentti G.,Ecuador,Giovanni-Lapentti,25.01.1983,193,91,Right,2002
+Kicker N.,Argentina,Nicolas-Kicker,16.08.1992,Right
+Collarini A.,Argentina,Andrea-Collarini,31.01.1992,Left
+Brands D.,Germany,Daniel-Brands,17.07.1987,196,92,Right,2005
+Bossel A.,Switzerland,Adrien-Bossel,28.12.1986,Right
+Cacic N.,Serbia,Nikola-Cacic,07.12.1990,183,75,Right
+Arevalo M.,El Salvador,Marcelo-Arevalo,17.10.1990,84,Right,o: 0
+Gomez E.,Ecuador,Emilio-Gomez,28.11.1991,Right
+Novikov D.,United States,Dennis-Novikov,06.11.1993,190,79,Right
+Cipolla F.,Italy,Flavio-Cipolla,20.10.1983,173,74,Right,2003
+Safiullin R.,Russian Federation,Roman-Safiullin,07.08.1997,Right
+Smith C.,United States,Connor-Smith,19.12.1990,Right
+Horansky F.,Slovakia,Filip-Horansky,07.01.1993,Right
+Granollers G.,Spain,Gerard-Granollers,30.01.1989,Right
+Pereira J.,Brazil,Jose-Pereira,26.01.1991,Right
+Boutillier R.,France,Remi-Boutillier,15.01.1990,Right
+Gicquel M.,France,Marc-Gicquel,30.03.1977,188,75,Right,1999
+Grigelis L.,Lithuania,Laurynas-Grigelis,14.08.1991,183,73,Right
+Nielsen F.,Denmark,Frederik-Nielsen,27.08.1983,190,83,Right,2001
+Serra F.,France,Florent-Serra,28.02.1981,180,78,Right,2000
+Jankovits Y.,France,Yannick-Jankovits,06.01.1987,Right
+Weintraub A.,Israel,Amir-Weintraub,16.09.1986,188,74,Right,2005
+Ward A.,Great Britain,Alexander-Ward,30.04.1990,Right
+Barry S.,Ireland,Sam-Barry,27.01.1992,Right
+Banes M.,Australia,Maverick-Banes,10.04.1992,Right
+Balaji N.,India,N.Sriram-Balaji,18.03.1990,Right
+Coria F.,Argentina,Federico-Coria,09.03.1992,Right
+Reuter Y.,Belgium,Yannik-Reuter,06.03.1991,Right
+Rice D.,Great Britain,David-Rice,01.01.1989,193,90,Right
+Kutrovsky D.,Bulgaria,Dimitar-Kutrovsky,27.08.1987,69,Right
+Sikora A.,Slovakia,Adrian-Sikora,05.07.1988,Right
+Rosenholm P.,Sweden,Patrik-Rosenholm,05.03.1988,178,80,Right
+Ouanna J.,France,Josselin-Ouanna,14.04.1986,193,91,Right,2004
+Willis M.,Great Britain,Marcus-Willis,09.10.1990,Right
+Giustino L.,Italy,Lorenzo-Giustino,10.09.1991,Right
+Hamou M.,France,Maxime-Hamou,08.06.1995,Right
+Klec I.,Slovakia,Ivo-Klec,28.11.1980,183,79,Right,1999
+Giannessi A.,Italy,Alessandro-Giannessi,30.05.1990,185,82,Left
+Kibi Y.,Japan,Yuya-Kibi,23.07.1986,Right
+Aguilar J.,Chile,Jorge-Aguilar,08.01.1985,178,75,Right
+El Mihdawy A.,United States,Adam-El-Mihdawy,09.08.1989,Right
+Phau B.,Germany,Bjorn-Phau,04.10.1979,175,70,Right,1999
+Panfil G.,Poland,Grzegorz-Panfil,01.01.1988,183,76,Left,2004
+Rufin G.,France,Guillaume-Rufin,26.05.1990,188,82,Right,2008
+Matsui T.,Japan,Toshihide-Matsui,19.04.1978,180,77,Right,2001
+Giron M.,United States,Marcos-Giron,24.07.1993,180,75,Right,2014
+Baluda V.,Russian Federation,Victor-Baluda,30.09.1992,Right
+King K.,United States,Kevin-King,28.02.1991,190,86,Left
+Naso G.,Italy,Gianluca-Naso,06.01.1987,Right
+Khachanov K.,Russian Federation,Karen-Khachanov,21.05.1996,198,88,Right
+Lazov A.,Bulgaria,Alexander-Lazov,09.07.1990,Right
+Lojda D.,Czech Republic,Dusan-Lojda,08.03.1988,188,85,Left,2005
+De Loore J.,Belgium,Joris-De-Loore,21.04.1993,Right
+Milton J.,Great Britain,Joshua-Milton,14.10.1989,Right
+Krueger M.,United States,Mitchell-Krueger,12.01.1994,188,77,Right
+Wang C.,China,Chuhan-Wang,24.02.1992,188,75,Right
+Diez S.,Canada,Steven-Diez,17.03.1991,Right
+Hajek J.,Czech Republic,Jan-Hajek,07.08.1983,180,80,Right,2000
+Trevisan M.,Italy,Matteo-Trevisan,13.08.1989,Right
+Sakharov G.,France,Gleb-Sakharov,10.06.1988,Right
+Nedunchezhiyan J.,India,Jeevan-Nedunchezhiyan,20.10.1988,173,Left
+Trinker B.,Austria,Bastian-Trinker,11.05.1990,Right
+Djere L.,Serbia,Laslo-Djere,02.06.1995,Right
+Milojevic N.,Serbia,Nikola-Milojevic,19.01.1995,188,77,Right
+Rudnev V.,Russian Federation,Valery-Rudnev,16.02.1988,Right
+Meister N.,United States,Nicolas-Meister,15.05.1989,Right
+Dubarenco M.,Moldova, Republic of,Maxim-Dubarenco,24.06.1993,Right
+Ivanov V.,Estonia,Vladimir-Ivanov,10.04.1987,Right
+Davydenko P.,Russian Federation,Philipp-Davydenko,02.09.1992,183,79,Right
+Peliwo F.,Canada,Filip-Peliwo,30.01.1994,180,70,Right,2013
+Saavedra Corvalan C.,Chile,Cristobal-Saavedra-Corvalan,01.08.1990,Right
+Bjelica I.,Serbia,Ivan-Bjelica,15.02.1984,Right
+Zekic M.,Serbia,Miljan-Zekic,12.07.1988,Right
+Matsukevich D.,Russian Federation,Denis-Matsukevich,28.03.1986,190,80,Right
+Zampieri C.,Brazil,Caio-Zampieri,27.05.1986,183,79,Right,2005
+Donati M.,Italy,Matteo-Donati,28.02.1995,188,73,Right
+Venus M.,New Zealand,Michael-Venus,16.10.1987,190,85,Right
+Beck K.,Slovakia,Karol-Beck,03.04.1982,180,74,Right,2001
+Kontinen M.,Finland,Micke-Kontinen,18.12.1992,Right
+Satral J.,Czech Republic,Jan-Satral,24.07.1990,Right
+Ledovskikh M.,Russian Federation,Mikhail-Ledovskikh,08.08.1986,188,82,Right
+Bai Y.,China,Yan-Bai,21.05.1989,Right
+Singh S.,India,Sanam-Singh,11.01.1988,175,67,Right
+Wolmarans F.,South Africa,Fritz-Wolmarans,07.03.1986,Right
+Petzschner P.,Germany,Philipp-Petzschner,24.03.1984,185,77,Right,2001
+Shyla Y.,Belarus,Yaraslav-Shyla,05.03.1993,Right
+Kuzmanov D.,Bulgaria,Dimitar-Kuzmanov,28.07.1993,Right
+Pavic M.,Croatia,Mate-Pavic,04.07.1993,188,78,Left
+Quinzi G.,Italy,Gianluigi-Quinzi,01.02.1996,Right
+Partl A.,Slovakia,Adrian-Partl,13.11.1993,Right
+Trusendi W.,Italy,Walter-Trusendi,03.01.1985,Right
+Jankovic M.,Serbia,Miki-Jankovic,26.09.1994,Right
+Beretta D.,Peru,Duilio-Beretta,25.02.1992,Right
+Ilkel C.,Turkey,Cem-Ilkel,21.08.1995,Right
+Turini T.,Brazil,Thales-Turini,18.07.1989,Right
+Giacalone O.,Italy,Omar-Giacalone,11.01.1992,Right
+Salamanca C.,Colombia,Carlos-Salamanca,15.01.1983,196,83,Left,2001
+Brizzi A.,Italy,Alberto-Brizzi,26.03.1984,Right
+Cuevas M.,Uruguay,Martin-Cuevas,14.01.1992,Right
+Nys H.,France,Hugo-Nys,16.02.1991,Right
+Vorster T.,South Africa,Tucker-Vorster,03.09.1988,Right
+Majchrzak K.,Poland,Kamil-Majchrzak,13.01.1996,Right
+Garanganga T.,Zimbabwe,Takanyi-Garanganga,06.09.1990,185,79,Right,2009
+Becker R.,Germany,Richard-Becker,29.01.1991,Right
+Takeuchi K.,Japan,Kento-Takeuchi,19.12.1987,Right
+Sekiguchi S.,Japan,Shuichi-Sekiguchi,15.07.1991,Right
+Manafov V.,Ukraine,Vladyslav-Manafov,22.04.1993,Right
+Maden Y.,Germany,Yannick-Maden,28.10.1989,Right
+Rodrigues M.,France,Mathieu-Rodrigues,07.11.1985,180,76,Right,2007
+Sinicropi R.,Italy,Riccardo-Sinicropi,12.09.1990,Right
+Nevolo D.,United States,Dennis-Nevolo,22.12.1989,Right
+Echazu M.,Peru,Mauricio-Echazu,21.01.1989,Right
+Mager G.,Italy,Gianluca-Mager,01.12.1994,Right
+Sabry S.,Egypt,Sherif-Sabry,29.08.1986,Right
+Caruso S.,Italy,Salvatore-Caruso,15.12.1992,Right
+Lestienne C.,France,Constant-Lestienne,23.05.1992,Right
+Schmid M.,Czech Republic,Michal-Schmid,28.11.1988,Right
+Kapas A.,Poland,Andriej-Kapas,11.08.1989,Right
+Lobkov A.,Russian Federation,Alexander-Lobkov,07.10.1990,Right
+Scholtz N.,South Africa,Nicolaas-Scholtz,05.02.1991,Right
+Roelofse R.,South Africa,Ruan-Roelofse,18.11.1989,Right
+Marterer M.,Germany,Maximilian-Marterer,15.06.1995,Right
+Tepavac M.,Serbia,Marko-Tepavac,05.04.1994,Right
+Sant'anna B.,Brazil,Bruno-Sant'anna,12.07.1993,Right
+Lopes T.,Brazil,Tiago-Lopes,27.11.1986,Right
+Kozlov S.,United States,Stefan-Kozlov,01.02.1998,178,70,Right,2013
+Napolitano S.,Italy,Stefano-Napolitano,11.04.1995,Right
+Fallert F.,Germany,Florian-Fallert,25.05.1992,Right
+Sborowitz M.,Chile,Matias-Sborowitz,09.07.1993,Right
+Barrere G.,France,Gregoire-Barrere,16.02.1994,183,Right
+Pashanski B.,Serbia,Boris-Pashanski,03.11.1982,180,74,Right,2001
+Kelly D.,Australia,Dayne-Kelly,23.07.1990,Right
+Reissig N.,Austria,Nicolas-Reissig,07.04.1989,185,84,Right,2009
+Vasilenko A.,Russian Federation,Alexander-Vasilenko,26.02.1995,Right
+Masur D.,Germany,Daniel-Masur,06.11.1994,183,81,Right
+Bellotti R.,Italy,Riccardo-Bellotti,05.08.1991,Right
+Luncanu P.A.,Romania,Petru-Alexandru-Luncanu,07.05.1989,185,80,Left,2005
+Moraing M.,Germany,Mats-Moraing,20.06.1992,Left
+Lizariturry J.,Spain,Juan-Lizariturry,20.04.1991,Right
+Leite W.,Brazil,Wilson-Leite,06.11.1991,178,78,Right,2008
+Quigley E.,United States,Eric-Quigley,30.01.1989,Right
+Heller P.,Germany,Peter-Heller,12.08.1992,Right
+O'Connell C.,Australia,Christopher-O'Connell,03.06.1994,Right
+Petrovic D.,Serbia,Danilo-Petrovic,24.01.1992,Right
+Giorgini D.,Italy,Daniele-Giorgini,24.04.1984,180,75,Right,2003
+Linzer M.,Austria,Michael-Linzer,02.11.1989,183,76,Right
+Crepaldi E.,Italy,Erik-Crepaldi,04.05.1990,Left
+Arvidsson I.,Sweden,Isak-Arvidsson,06.08.1992,Right
+Kekez D.,Croatia,Duje-Kekez,30.03.1993,Right
+Teixeira M.,France,Maxime-Teixeira,18.01.1989,188,75,Right,2010
+Dmitriev K.,Russian Federation,Kirill-Dmitriev,09.08.1991,190,85,Right
+Eriksson M.,Sweden,Markus-Eriksson,29.11.1989,188,80,Right
+Monteiro T.,Brazil,Thiago-Monteiro,31.05.1994,Right
+Heras P.,Argentina,Patricio-Heras,21.01.1989,Right
+Kern R.,Germany,Robin-Kern,03.10.1993,190,87,Right
+Chazal M.,France,Maxime-Chazal,24.04.1993,Right
+Balleret B.,Monaco,Benjamin-Balleret,15.01.1983,185,85,Right
+Semjan M.,Slovakia,Marek-Semjan,07.11.1987,Right
+Nedelko I.,Russian Federation,Ivan-Nedelko,12.05.1986,Right
+Vovk S.,Russian Federation,Stanislav-Vovk,19.02.1991,185,69,Right,2008
+Watanuki Y.,Japan,Yusuke-Watanuki,20.05.1990,Right
+Makiguchi R.,Japan,Ryusei-Makiguchi,03.05.1991,Right
+Quiroz R.,Ecuador,Roberto-Quiroz,23.02.1992,Right
+Lee D.,Korea, Republic of,Duckhee-Lee,29.05.1998,Right
+Bega A.,Italy,Alessandro-Bega,11.01.1991,Right
+Katic D.,Serbia,Dejan-Katic,07.03.1988,Right
+Baumann M.,Germany,Moritz-Baumann,09.05.1987,Left
+Basso A.,Italy,Andrea-Basso,08.10.1993,Right
+Rublev A.,Russian Federation,Andrey-Rublev,20.10.1997,Right
+Brunner P.,Austria,Pascal-Brunner,11.06.1989,Right
+Romboli F.,Brazil,Fernando-Romboli,04.01.1989,180,82,Right,2006
+Tyurnev E.,Russian Federation,Evgeny-Tyurnev,08.04.1997,Right
+Fortuna C.,Italy,Claudio-Fortuna,19.04.1990,Right
+Mena F.,Argentina,Facundo-Mena,22.09.1992,183,85,Right
+Ismailov T.,Uzbekistan,Temur-Ismailov,14.01.1995,Right
+Neis F.,Brazil,Fabricio-Neis,15.06.1990,Right
+Badanov D.,Ukraine,Dmytro-Badanov,19.01.1988,Right
+Barton M.,Australia,Matthew-Barton,18.12.1991,Right
+Whittington A.,Australia,Andrew-Whittington,11.08.1993,Right
+Hemery C.,France,Calvin-Hemery,28.01.1995,Right
+Miele A.,Brazil,Andre-Miele,12.04.1987,Right
+Veger F.,Croatia,Filip-Veger,21.12.1994,Right
+Garza D.,Mexico,Daniel-Garza,08.04.1985,Right
+Daniell M.,New Zealand,Marcus-Daniell,09.11.1989,190,76,Right,2008
+Korolev E.,Kazakhstan,Evgeny-Korolev,14.02.1988,185,82,Right,2005
+Vagnozzi S.,Italy,Simone-Vagnozzi,30.05.1983,173,60,Right,1999
+Jebavy R.,Czech Republic,Roman-Jebavy,16.11.1989,Right
+Statham R.,New Zealand,Jose-(Rubin)-Statham,25.04.1987,183,72,Right
+Trubrig C.,Austria,Christian-Trubrig,13.11.1992,Right
+Golding O.,Great Britain,Oliver-Golding,29.09.1993,188,84,Right,2011
+Lammer M.,Switzerland,Michael-Lammer,25.03.1982,185,80,Right
+Escobedo E.,United States,Ernesto-Escobedo,04.07.1996,Right
+Hocevar R.,Brazil,Ricardo-Hocevar,09.05.1985,180,80,Right,2004
+Fournerie T.,France,Theo-Fournerie,06.03.1997,Right
+Farquharson T.,Great Britain,Tom-Farquharson,12.02.1992,Right
+Neuchrist M.,Austria,Maximilian-Neuchrist,22.07.1991,Right
+Metreveli A.,Georgia,Aleksandre-Metreveli,10.08.1993,Right
+Picco F.,Italy,Francesco-Picco,01.01.1991,Right
+Bambridge L.,Great Britain,Luke-Bambridge,21.01.1995,Right
+Bester P.,Canada,Philip-Bester,06.10.1988,188,77,Right,2006
+Kobelt P.,United States,Peter-Kobelt,17.11.1990,Right
+Marcan D.,Croatia,Dino-Marcan,12.02.1991,Right
+Angelinos T.,Greece,Theodoros-Angelinos,29.05.1984,Right,o: 0
+Estevez M.,Argentina,Maximiliano-Estevez,18.05.1989,Right
+Boltz S.,France,Sebastien-Boltz,05.04.1993,Right
+Jotovski T.,Macedonia, the Former Yugoslav Republic of,Tomislav-Jotovski,27.10.1990,Right
+Artunedo Martinavarro A.,Spain,Andres-Artunedo-Martinavarro,14.09.1993,183,75,Right,2011
+Galovic V.,Croatia,Viktor-Galovic,19.09.1990,Right
+Krawietz K.,Germany,Kevin-Krawietz,24.01.1992,190,83,Right,2008
+Song E.,United States,Evan-Song,07.06.1992,Left
+Griekspoor S.,Netherlands,Scott-Griekspoor,10.01.1991,Right
+Domingues J.,Portugal,Joao-Domingues,05.10.1993,175,69,Right,2013
+Licciardi P.,Italy,Pietro-Licciardi,17.05.1994,Left
+Erguden B.,Turkey,Baris-Erguden,01.01.1986,Right
+Chrysochos P.,Cyprus,Petros-Chrysochos,08.04.1996,Right
+Jasika O.,Australia,Omar-Jasika,18.05.1997,Left
+Vandenbulcke Y.,Belgium,Yannick-Vandenbulcke,18.07.1990,Right
+Hank T.,Mexico,Tigre-Hank,30.09.1991,188,85,Left
+King E.,United States,Evan-King,25.03.1992,185,79,Left
+Zeballos F.,Bolivia,Federico-Zeballos,30.05.1988,Right
+Coco R.,France,Rudy-Coco,21.03.1984,Right
+Hewitt A.,Great Britain,Ashley-Hewitt,06.02.1992,Right
+Uzhylovsky V.,Ukraine,Vladimir-Uzhylovsky,25.03.1988,183,96,Right
+Ehara H.,Japan,Hiroyasu-Ehara,18.06.1991,Right
+Ito Y.,Japan,Yuichi-Ito,06.08.1986,Right
+Duran G.,Argentina,Guillermo-Duran,06.06.1988,Right
+Rochus O.,Belgium,Olivier-Rochus,18.01.1981,168,65,Right,1999
+Vatutin A.,Russian Federation,Alexey-Vatutin,27.10.1992,Right
+Mott B.,Australia,Blake-Mott,21.04.1996,Right
+Bangoura S.,United States,Sekou-Bangoura,18.11.1991,183,77,Right,2010
+Panta J.,Peru,Jorge-Panta,22.07.1995,Right
+Gabb R.,Great Britain,Richard-Gabb,12.02.1992,Right
+Frank M.,United States,Mitchell-Frank,16.10.1992,Right
+Ouahab L.,Morocco,Lamine-Ouahab,22.12.1984,185,83,Right,2002
+Vasilevski A.,Belarus,Andrei-Vasilevski,28.05.1991,185,80,Right
+Pecotic M.,Croatia,Matija-Pecotic,03.07.1989,Right
+Ghedin N.,Italy,Nicola-Ghedin,26.09.1988,Right
+Sancic A.,Croatia,Antonio-Sancic,23.11.1988,Right
+Surreaux A.,France,Arthur-Surreaux,11.02.1987,Right
+Kondo H.,Japan,Hiroki-Kondo,05.11.1982,71,Right
+Marrai M.,Italy,Matteo-Marrai,17.11.1986,Right
+Sarkissian A.,United States,Alexander-Sarkissian,03.04.1990,190,79,Right,2014
+Tabatruong M.,France,Maxime-Tabatruong,24.09.1989,Right
+Florez V.,Argentina,Valentin-Florez,08.02.1991,Right
+Souto D.,Venezuela,David-Souto,26.03.1992,Left
+Alekseenko V.,Ukraine,Vadim-Alekseenko,19.05.1983,Right,o: 0
+Singh K.,India,Karunuday-Singh,19.11.1990,Right
+Rubin N.,United States,Noah-Rubin,21.02.1996,175,66,Right
+Urbanija M.,Slovenia,Mike-Urbanija,26.12.1989,Right
+Onozawa A.,Japan,Arata-Onozawa,28.04.1988,Right
+Dubail J.,Belgium,Julien-Dubail,14.02.1988,Right
+Sillanpaa H.,Finland,Henrik-Sillanpaa,21.04.1991,Right
+Endara I.,Ecuador,Ivan-Endara,04.03.1988,Right
+Reynolds B.,United States,Bobby-Reynolds,17.07.1982,183,77,Right,2003
+Deviatiarov M.,Ukraine,Marat-Deviatiarov,19.04.1994,Right
+Konecny M.,Czech Republic,Michal-Konecny,13.10.1989,75,Left
+Skugor F.,Croatia,Franko-Skugor,20.09.1987,203,98,Right
+Coupland G.,Great Britain,George-Coupland,12.05.1989,193,73,Right
+Muzaev R.,Russian Federation,Richard-Muzaev,21.03.1992,Right
+Gakhov I.,Russian Federation,Ivan-Gakhov,04.11.1996,Left
+Schnur B.,Canada,Brayden-Schnur,04.07.1995,190,84,Right
+Schoorel T.,Netherlands,Thomas-Schoorel,08.04.1989,203,Left
+Middelkoop M.,Netherlands,Matwe-Middelkoop,03.09.1983,Right,2002
+Dima D.,Romania,Dragos-Dima,16.06.1992,Right
+Arneodo R.,Monaco,Romain-Arneodo,04.08.1992,Right
+Safranek V.,Czech Republic,Vaclav-Safranek,20.05.1994,Right
+Gil F.,Portugal,Frederico-Gil,24.03.1985,178,70,Right,2003
+Rousset E.,France,Elie-Rousset,05.09.1989,Right
+Antonescu V.,Romania,Vasile-Antonescu,24.03.1990,Right,o: 0
+Virgili A.,Italy,Adelchi-Virgili,10.03.1990,Right
+Ubiergo J.,France,Jordan-Ubiergo,27.07.1993,Right
+Lootsma N.,Netherlands,Niels-Lootsma,15.08.1994,Right
+Rochette L.,France,Laurent-Rochette,05.02.1988,183,79,Right,2006
+Popko D.,Kazakhstan,Dmitry-Popko,24.10.1996,Right
+Podzus M.,Latvia,Martins-Podzus,29.06.1994,Right
+Koniusz B.,Poland,Blazej-Koniusz,22.02.1988,Right
+Meuffels A.,Netherlands,Alban-Meuffels,24.08.1992,Right
+Halys Q.,France,Quentin-Halys,26.10.1996,Right
+Grabul D.,Macedonia, the Former Yugoslav Republic of,Dimitar-Grabul,05.11.1981,Right
+McDonald M.,United States,Mackenzie-McDonald,16.04.1995,178,66,Right
+Reyes-Varela M.A.,Mexico,Miguel-Angel-Reyes-Varela,21.06.1987,Right
+Uchida K.,Japan,Kaichi-Uchida,23.08.1994,Right
+Sakamoto P.,Brazil,Pedro-Sakamoto,29.06.1993,Right
+Wunner M.,Germany,Matthias-Wunner,10.03.1993,Right
+Saito T.,Japan,Takashi-Saito,23.02.1995,Right
+Mensurado V.,Portugal,Vasco-Mensurado,01.04.1994,Right
+Rungkat C.,Indonesia,Christopher-Rungkat,14.01.1990,175,75,Right,2007
+Vardhan V.,India,Vishnu-Vardhan,27.07.1987,188,84,Right,2008
+Bejtulahi D.,Serbia,Denis-Bejtulahi,01.06.1987,Right
+Carpenter J.,Great Britain,Jack-Carpenter,11.04.1992,Right
+Pauffley N.,Great Britain,Neil-Pauffley,29.03.1990,Right
+Harris A.,Australia,Andrew-Harris,07.03.1994,Right
+Medvedev D.,Russian Federation,Daniil-Medvedev,11.02.1996,Right
+Mesaros K.,Croatia,Kristijan-Mesaros,02.07.1988,188,89,Right
+Ouellette G.,United States,Greg-Ouellette,19.05.1986,178,72,Left,2008
+Barbosa R.,Portugal,Romain-Barbosa,17.04.1994,Right
+Mmoh M.,United States,Michael-Mmoh,10.01.1998,188,86,Right
+Sandgren T.,United States,Tennys-Sandgren,22.07.1991,188,88,Right
+Choinski J.,Germany,Jan-Choinski,10.06.1996,Right
+Goldengoren T.,Israel,Tal-Goldengoren,16.04.1996,Right
+Mugevicius L.,Lithuania,Lukas-Mugevicius,07.12.1994,Right
+Leonardi F.,Italy,Filippo-Leonardi,22.12.1987,Right
+Ghedin R.,Italy,Riccardo-Ghedin,05.12.1985,188,73,Right
+Norrie C.,Great Britain,Cameron-Norrie,23.08.1995,Right
+Agar R.,Australia,Ryan-Agar,21.06.1987,Right,o: 0
+Folie A.,Belgium,Alexandre-Folie,31.01.1990,Right
+Mantilla F.,Colombia,Felipe-Mantilla,10.05.1993,Right
+Prodon E.,France,Eric-Prodon,27.06.1981,178,72,Right,2000
+Gawron M.,Poland,Marcin-Gawron,25.05.1988,Right
+McCarthy D.,United States,Devin-McCarthy,20.11.1990,193,86,Right
+Rondoni P.,Italy,Pietro-Rondoni,03.11.1993,Right
+Inzerillo J.,France,Jerome-Inzerillo,15.02.1990,Right
+Bortolotti M.,Italy,Marco-Bortolotti,21.01.1991,Right
+Brandao F.,Brazil,Filipe-Brandao,13.12.1991,Right
+Gadomski P.,Poland,Piotr-Gadomski,21.01.1991,Right
+Grozdanov T.,Bulgaria,Tihomir-Grozdanov,29.04.1987,Right
+Diarra G.,Austria,Gibril-Diarra,26.05.1990,Right
+Suc D.,Czech Republic,Dominik-Suc,19.09.1990,Right
+Jones G.,Australia,Greg-Jones,31.01.1989,190,85,Right,2007
+Escoffier A.,France,Antoine-Escoffier,29.02.1992,Right
+Hoang A.,France,Antonie-Hoang,04.11.1995,Right
+Jakupovic A.,Greece,Alexandros-Jakupovic,14.12.1981,Right
+Ramirez C.,Mexico,Cesar-Ramirez,25.01.1990,Right
+Silva C.,Brazil,Caio-Silva,15.10.1991,Right
+Yevseyev D.,Kazakhstan,Denis-Yevseyev,22.05.1993,Right
+Grills J.,Australia,Jacob-Grills,18.06.1995,Right
+Dischinger E.,Brazil,Eduardo-Dischinger,18.05.1992,Right
+Shiga M.,Japan,Masato-Shiga,08.08.1991,Right
+Eames J.,Australia,Jake-Eames,08.01.1991,Right
+Gong M.X.,China,Mao-Xin-Gong,24.08.1987,178,70,Right,2006
+Isarow P.,Thailand,Pruchya-Isarow,16.10.1995,Right
+Di Mauro A.,Italy,Alessio-Di-Mauro,09.08.1977,185,71,Left,1998
+De Voest R.,South Africa,Rik-De-Voest,05.06.1980,180,68,Right,1999
+Huta Galung J.,Netherlands,Jesse-Huta-Galung,06.10.1985,188,88,Right,2004
+Deen Heshaam A.,Malaysia,Ariez-Elyaas-Deen-Heshaam,24.12.1993,Right
+Van Der Merwe I.,South Africa,Izak-Van-Der-Merwe,26.01.1984,196,88,Right,2005
+Dasnieres de Veigy J.,France,Jonathan-Dasnieres-De-Veigy,05.01.1987,175,76,Left,2008
+Zayed M. S.,Qatar,Mousa-Shanan-Zayed,09.03.1994,Right
+Artunedo Martinavarro A.,Spain,Andres-Artunedo-Martinavarro,14.09.1993,183,75,Right,2011
+O'Neal J.,United States,Justin-Oneal,24.10.1977,Right,1999
+Agostinelli B.,Canada,Bruno-Agostinelli,01.04.1987,Right,o: 0
+Gutierrez-Ferrol S.,Spain,Sergio-Gutierrez-Ferrol,05.03.1989,Right
+Brugues-Davi A.,Spain,Arnau-Brugues-Davi,05.03.1985,183,82,Left,2009
+Brugues-Davi A.,Spain,Albert-Brugues-Davi,27.02.1988,Left,2009
+Gomez-Herrera C.,Spain,Carlos-Gomez-Herrera,30.04.1990,Right
+King-Turner D.,New Zealand,Daniel-King-Turner,15.05.1984,190,Right
+Ascione T.,France,Thierry-Ascione,17.01.1981,188,89,Right,2000
+Fleishman Z.,United States,Zack-Fleishman,17.03.1980,188,84,Right,2000
+Trongcharoenchaikul W.,Thailand,Wishaya-Trongcharoenchaikul,08.04.1995,Right
+Dolgopolov O.,Ukraine,Oleksandr-Dolgopolov-Sr,10.07.1964,Right
+Bowles C.,United States,Clint-Bowles,16.11.1988,173,70,Left
+Kunitsyn I.,Russian Federation,Igor-Kunitsyn,30.09.1981,180,75,Right,1999
+Marrero D.,Spain,David-Marrero,08.04.1980,183,85,Right,2001
+Rios F.,Chile,Felipe-Rios,04.03.1992,Right
+Slanar M.,Austria,Martin-Slanar,01.05.1981,Right
+Pless K.,Denmark,Kristian-Pless,09.02.1981,188,84,Right,1999
+Sluiter R.,Netherlands,Raemon-Sluiter,13.04.1978,185,80,Right,1996
+Zlatanovic A.,Serbia,Arsenije-Zlatanovic,04.12.1989,193,77,Right,2006
+Zemlja G.,Slovenia,Grega-Zemlja,29.09.1986,183,81,Right,2004
+Karanusic R.,Croatia,Roko-Karanusic,05.09.1982,183,75,Right,2000
+Lajola D.,United States,Dennis-Lajola,12.02.1989,Right
+Galvani S.,Italy,Stefano-Galvani,03.06.1977,178,73,Right,1999
+Rieschick S.,Germany,Sebastian-Rieschick,15.02.1986,Right
+Vliegen K.,Belgium,Kristof-Vliegen,193,75,Right,2001
+Balazs A.,Hungary,Attila-Balazs,27.12.1988,180,77,Right
+Ebelthite C.,Australia,Colin-Ebelthite,27.11.1984,Right
+Marach O.,Austria,Oliver-Marach,16.07.1980,185,78,Right,1998
+Emmrich M.,Germany,Martin-Emmrich,17.12.1984,183,81,Left,2001
+Haehnel J.,France,Jerome-Haehnel,14.07.1980,185,78,Right,1998
+Vanek J.,Czech Republic,Jiri-Vanek,24.04.1978,185,86,Right,1995
+Strode B.,United States,Blake-Strode,09.07.1987,188,84,Right,2009
+Poerschke L.,Germany,Lars-Poerschke,17.06.1984,Right
+Roshardt R.,Switzerland,Robin-Roshardt,22.02.1988,Right
+Minar J.,Czech Republic,Jan-Minar,09.04.1981,Right
+Aranguren J.M.,Argentina,Juan-Martin-Aranguren,07.10.1983,Right,o: 0
+Ehrat S.,Switzerland,Sandro-Ehrat,18.04.1991,180,Right
+Dlouhy L.,Czech Republic,Lukas-Dlouhy,09.04.1983,185,88,Right,2001
+Guccione C.,Australia,Chris-Guccione,30.07.1985,201,92,Left,2003
+Junaid R.,Australia,Rameez-Junaid,25.05.1981,Right
+Cakl T.,Czech Republic,Tomas-Cakl,25.04.1981,178,75,Right,2000
+Stadler S.,Germany,Simon-Stadler,20.07.1983,183,75,Left,2002
+Vik R.,Czech Republic,Robin-Vik,05.02.1980,183,76,Right,1998
+Fraile G.,Spain,Gorka-Fraile,07.04.1978,180,82,Right
+Suzuki T.,Japan,Takao-Suzuki,20.09.1976,175,73,Right,1995
+Crugnola M.,Italy,Marco-Crugnola,24.05.1983,188,84,Right,2004
+Tiafoe F.,United States,Francis-Tiafoe,20.01.1998,185,75,Right
+Junqueira D.,Argentina,Diego-Junqueira,28.12.1980,178,72,Left,2001
+Olejniczak D.,Poland,Dawid-Olejniczak,01.03.1983,Right
+Sitak A.,New Zealand,Artem-Sitak,08.02.1986,83,Right
+Fleming C.,Great Britain,Colin-Fleming,13.08.1984,188,78,Right
+Ball C.,Australia,Carsten-Ball,20.06.1987,198,91,Left,2005
+Knittel B.,Germany,Bastian-Knittel,08.08.1983,180,71,Left,2003
+Topic J.,Croatia,Josko-Topic,08.12.1983,Right
+Struff J.L.,Germany,Jan-Lennard-Struff,25.04.1990,196,87,Right,2009
+Sun P.,China,Peng-Sun,19.10.1983,Right
+Sanchez M.,Mexico,Manuel-Sanchez,05.01.1991,183,78,Right
+Gonzalez S.,Mexico,Santiago-Gonzalez,24.02.1983,190,85,Right,2001
+Levy H.,Israel,Harel-Levy,05.08.1978,185,82,Right,1995
+Jouan R.,France,Romain-Jouan,16.07.1985,183,77,Right,2006
+Smeets R.,Australia,Robert-Smeets,10.11.1985,188,70,Left
+Brzezicki J.P.,Argentina,Juan-Pablo-Brzezicki,12.04.1982,178,72,Right,2001
+Eaton C.,Great Britain,Chris-Eaton,27.11.1987,76,Right
+Li Z.,China,Zhe-Li,20.09.1986,185,81,Right,2004
+Inglot D.,Great Britain,Dominic-Inglot,06.03.1986,196,95,Right
+Jones A.,Australia,Alun-Jones,26.04.1980,180,69,Right,2000
+Siriluethaiwattana P.,Thailand,Peerakiat-Siriluethaiwattana,16.08.1989,Right
+Galdon P.,Argentina,Pablo-Galdon,28.11.1985,Right
+Hartfield D.,Argentina,Diego-Hartfield,31.01.1981,185,80,Right
+Tavares L.,Portugal,Leonardo-Tavares,20.02.1984,Right
+Gremelmayr D.,Germany,Denis-Gremelmayr,16.08.1981,183,73,Left,2000
+Kim K.,United States,Kevin-Kim,26.07.1978,180,75,Right,1997
+Snobel P.,Czech Republic,Pavel-Snobel,28.02.1980,190,82,Left,1997
+Duclos P.L.,Canada,Pierre-Ludovic-Duclos,08.01.1986,188,75,Right,2007
+Elgin M.,Russian Federation,Mikhail-Elgin,14.10.1981,183,78,Right,1998
+Delgado R.,Paraguay,Ramon-Delgado,14.11.1976,185,79,Right,1995
+Evans B.,United States,Brendan-Evans,08.04.1986,188,91,Right,2004
+Ziadi M.,Morocco,Mehdi-Ziadi,20.09.1986,Right
+Salva B.,Spain,Bartolome-Salva-Vidal,20.11.1986,183,79,Left
+Reix C.,France,Clement-Reix,09.10.1983,Right
+Cruciat A.,Romania,Adrian-Cruciat,31.03.1983,76,Right
+Ryderstedt M.,Sweden,Michael-Ryderstedt,12.11.1984,188,78,Left,2002
+Gao X.,China,Xin-Gao,12.05.1994,Right
+Chaki R.,Morocco,Rabie-Chaki,14.04.1982,Right
+Belyaev I.,Russian Federation,Ilya-Belyaev,09.08.1990,180,79,Right,2005
+Norman D.,Belgium,Dick-Norman,01.03.1971,203,95,Left,1991
+Delic A.,Bosnia and Herzegovina,Amer-Delic,30.06.1982,196,93,Right,2003
+Yang T.H.,CHINESE TAIPEI ( TAIWAN ),Tsung-Hua-Yang,29.03.1991,178,80,Right,2006
+Peya A.,Austria,Alexander-Peya,27.06.1980,183,76,Right,1998
+Saretta F.,Brazil,Flavio-Saretta,28.06.1980,183,70,Right,1998
+Warburg S.,United States,Sam-Warburg,29.04.1983,190,85,Right,2005
+Jenkins S.,United States,Scoville-Jenkins,23.09.1986,188,77,Right,2004
+Sweeting R.,United States,Ryan-Sweeting,14.07.1987,196,83,Right,2007
+Ventura S.,Spain,Santiago-Ventura,05.01.1980,183,78,Right,2001
+Kirillov E.,Russian Federation,Evgeny-Kirillov,14.07.1987,Right
+Gong M.X.,China,Mao-Xin-Gong,24.08.1987,178,70,Right,2006
+Rehnquist B.,Sweden,Bjorn-Rehnquist,05.01.1978,175,69,Right,1997
+Ouyang B.,China,Bowen-Ouyang,19.05.1992,Right
+Walter L.,France,Ludovic-Walter,04.01.1983,Right
+Minar I.,Czech Republic,Ivo-Minar,21.05.1984,183,85,Right,2002
+Vinciguerra A.,Sweden,Andreas-Vinciguerra,19.02.1981,180,73,Left,1998
+Hernandez O.,Spain,Oscar-Hernandez,10.04.1978,180,70,Right,1998
+Lisnard J.R.,Monaco,Jean-Rene-Lisnard,25.09.1979,173,68,Right,1997
+Vicente F.,Spain,Fernando-Vicente,08.03.1977,180,76,Right,1996
+Zovko L.,Croatia,Lovro-Zovko,18.03.1981,190,80,Right,1999
+Lemke J.,Australia,James-Lemke,25.01.1988,Right
+Sergeyev I.,Ukraine,Ivan-Sergeyev,20.01.1988,175,78,Right
+Economidis K.,Greece,Konstantinos-Economidis,02.11.1977,188,80,Right,1998
+Klaasen R.,South Africa,Raven-Klaasen,16.10.1982,180,71,Right,2002
+Moraru G.,Romania,Gabriel-Moraru,28.01.1982,180,72,Right,2001
+Goodall J.,Great Britain,Josh-Goodall,17.10.1985,188,74,Right,2004
+Goodall J.,Great Britain,Jason-Goodall,23.01.1967,185,80,Right
+Bloomfield R.,Great Britain,Richard-Bloomfield,27.04.1983,185,75,Right,2002
+Koellerer D.,Austria,Daniel-Koellerer,180,80,Right,2002
+Bastl G.,Switzerland,George-Bastl,01.04.1975,183,85,Right,1998
+Im K.T.,Korea, Republic of,Kyu-Tae-Im,06.01.1981,185,75,Right,2001
+Khaddari H.,Morocco,Hicham-Khaddari,19.08.1991,Right
+Eitzinger R.,Austria,Rainer-Eitzinger,28.06.1983,178,65,Right,2003
+Ramos A.,Mexico,Aaron-Ramos,14.03.1976,Right
+Ramos A.,Mexico,Alejandro-Ramos,Right
+Ramos A.,Mexico,Alberto-Ramos,Right
+Capdeville P.,Chile,Paul-Capdeville,02.04.1983,190,78,Right,2002
+Herbert P.H.,France,Pierre-Hugues-Herbert,18.03.1991,183,79,Right,2010
+Lindahl N.,Australia,Nick-Lindahl,31.07.1988,183,77,Right,2006
+Sirianni J.,Australia,Joseph-Sirianni,17.01.1975,175,75,Right,1996
+Simmonds P.,United States,Phillip-Simmonds,18.05.1986,Right
+Witten J.,United States,Jesse-Witten,15.10.1982,178,82,Right,2005
+Scherrer J.C.,Switzerland,Jean-Claude-Scherrer,20.07.1978,188,82,Right,1998
+Greul S.,Germany,Simon-Greul,13.04.1981,185,80,Right,2000
+Widom T.,United States,Todd-Widom,24.04.1983,Right
+Bohli S.,Switzerland,Stephane-Bohli,25.07.1983,185,82,Right,2002
+Amritraj P.,India,Prakash-Amritraj,02.10.1983,188,75,Right,2003
+Renavand N.,France,Nicolas-Renavand,25.06.1982,Right
+Bopanna R.,India,Rohan-Bopanna,04.03.1980,190,87,Right,2003
+Sadecky A.,Switzerland,Alexander-Sadecky,06.07.1987,193,80,Left
+Mcclune M.,United States,Michael-Mcclune,22.08.1989,188,84,Right,2007
+Eschauer W.,Austria,Werner-Eschauer,26.04.1974,188,76,Right,1998
+Chvojka E.,Canada,Erik-Chvojka,26.10.1986,185,80,Left,2004
+Vacek J.,Czech Republic,Jan-Vacek,10.05.1976,198,92,Right,1999
+Valent R.,Switzerland,Roman-Valent,08.07.1983,183,78,Right
+Lipsky S.,United States,Scott-Lipsky,14.08.1981,185,86,Right,2003
+Baker J.,Great Britain,Jamie-Baker,05.08.1986,183,81,Right
+Biryukov M.,Russian Federation,Mikhail-Biryukov,28.04.1992,Right
+Deheart R.,United States,Ryler-Deheart,03.01.1984,183,79,Left,2006
+Bubka S.,Ukraine,Sergei-Bubka,10.02.1987,188,88,Right,2005
+Viola M.,Italy,Matteo-Viola,07.07.1987,188,80,Right,2004
+Kontinen H.,Finland,Henri-Kontinen,19.06.1990,188,82,Right
+Yani M.,United States,Michael-Yani,31.12.1980,185,75,Right,2003
+Matsukevich D.,Russian Federation,Denis-Matsukevich,28.03.1986,190,80,Right
+Kendrick R.,United States,Robert-Kendrick,15.11.1979,190,86,Right,2000
+Sekulic M.,Sweden,Milos-Sekulic,04.11.1989,188,75,Right,2008
+Schukin Y.,Kazakhstan,Yuri-Schukin,26.06.1979,185,88,Right,1999
+Cermak F.,Czech Republic,Frantisek-Cermak,14.11.1976,193,80,Right,1998
+Slabinsky A.,Great Britain,Alexander-Slabinsky,06.03.1986,185,Right
+Kloer S.,Germany,Sascha-Kloer,16.08.1985,Right
+Prpic F.,Sweden,Filip-Prpic,26.05.1982,173,74,Right,2002
+Ciorcila P.,Romania,Patrick-Ciorcila,20.09.1996,180,70,Right
+Meffert D.,Germany,Dominik-Meffert,09.04.1981,198,95,Right,2005
+Mcgee J.,Ireland,James-Mcgee,10.06.1987,183,80,Right
+Lopez-Jaen M.A.,Spain,Miguel-Angel-Lopez-Jaen,29.11.1982,188,84,Right,2000
+Stebe C.M.,Germany,Cedrik-Marcel-Stebe,09.10.1990,183,72,Left,2010
+Schuettler R.,Germany,Rainer-Schuettler,25.04.1976,180,75,Right,1995
+Niland C.,Ireland,Conor-Niland,19.09.1981,185,82,Right
+Fidirko N.,Belarus,Nikolai-Fidirko,15.06.1987,185,85,Right
+Trujillo G.,Spain,Gabriel-Trujillo-Soler,30.09.1979,Right
+Armando H.,United States,Hugo-Armando,27.05.1978,183,82,Right,1997
+Betov S.,Belarus,Sergey-Betov,15.10.1987,185,74,Right
+Rochus C.,Belgium,Christophe-Rochus,15.12.1978,170,68,Right,1996
+Zib T.,Czech Republic,Tomas-Zib,31.01.1976,178,76,Right,1995
+Zverev M.,Germany,Mischa-Zverev,22.08.1987,190,81,Left
+Daniel M.,Brazil,Marcos-Daniel,04.07.1978,180,79,Right,1997
+Daniel M.,Israel,Michael-Daniel,21.11.1965,188,82,Right
+Olaso G.,Spain,Guillermo-Olaso,25.03.1988,175,72,Right,2006
+Mertinak M.,Slovakia,Michal-Mertinak,11.10.1979,180,85,Right,1999
+Borvanov R.,Moldova, Republic of,Roman-Borvanov,31.03.1982,183,80,Right,2004
+Maamoun K.,Egypt,Karim-Maamoun,18.11.1979,Right
+Goransson T.,Sweden,Tim-Goransson,26.03.1988,Right
+Baker B.,United States,Brian-Baker,30.04.1985,190,77,Right,2003
+Piccari F.,Italy,Francesco-Piccari,07.09.1979,Right
+Kindlmann D.,Germany,Dieter-Kindlmann,03.06.1982,183,71,Right,2001
+De Voest R.,South Africa,Rik-De-Voest,05.06.1980,180,68,Right,1999
+Decoud S.,Argentina,Sebastian-Decoud,18.09.1981,180,78,Left,2000
+Luncanu P.A.,Romania,Petru-Alexandru-Luncanu,07.05.1989,185,80,Left,2005
+Okun N.,Israel,Noam-Okun,16.04.1978,185,85,Right,1996
+Jeong S.Y.,Korea, Republic of,Suk-Young-Jeong,12.04.1993,Right
+Alves T.,Brazil,Thiago-Alves,22.05.1982,178,75,Right,2000
+El Amrani R.,Morocco,Reda-El-Amrani,19.05.1988,185,82,Right
+Devilder N.,France,Nicolas-Devilder,25.03.1980,173,65,Left,2000
+Echagaray B.,Mexico,Bruno-Echagaray,08.05.1983,183,84,Right,2000
+Thompson C.,United States,Clay-Thompson,04.05.1992,198,86,Right
+Wachiramanowong K.,Thailand,Kittipong-Wachiramanowong,25.06.1990,183,73,Right
+Oswald P.,Austria,Philipp-Oswald,23.01.1986,201,94,Right,2005
+Roitman S.,Argentina,Sergio-Roitman,16.05.1979,185,79,Right,1996
+Qureshi A.U.H.,Pakistan,Aisam-Ul-Haq-Qureshi,17.03.1980,183,78,Right,1998
+Munoz de la Nava D.,Spain,Daniel-Munoz-De-La-Nava,29.01.1982,178,75,Left,1999
+Marti J.,Spain,Javier-Marti,11.01.1992,Right
+Gregorc L.,Slovenia,Luka-Gregorc,14.02.1984,Right
+Jones G.D.,New Zealand,G-D-Jones,01.04.1986,183,72,Right
+Jelenic P.,Croatia,Petar-Jelenic,13.06.1987,80,Right
+Dorsch B.,Germany,Benedikt-Dorsch,10.01.1981,178,84,Right,2005
+Idmbarek Y.,Morocco,Yassine-Idmbarek,07.12.1986,Right
+Kumantsov A.,Russian Federation,Andrey-Kumantsov,04.08.1986,Right
+Farah R.,Colombia,Robert-Farah,20.01.1987,190,91,Right,2010
+Eleskovic E.,Sweden,Ervin-Eleskovic,08.05.1987,Right
+Luczak P.,Australia,Peter-Luczak,31.08.1979,183,77,Right,2000
+Pasha N.,United States,Nathan-Pasha,15.07.1992,190,86,Right
+Vassallo-Arguello M.,Argentina,Martin-Vassallo-Arguello,10.02.1980,183,80,Right,1999
+Alcaide G.,Spain,Guillermo-Alcaide,27.05.1986,188,77,Right,o: 0
+Dell'Acqua M.,Italy,Massimo-Dellacqua,06.09.1979,193,86,Right,1999
+Xu J.C.,China,Jun-Chao-Xu,22.09.1988,Right
+Ferreiro F.,Brazil,Franco-Ferreiro,01.07.1984,188,82,Right,2002
+Patience O.,France,Olivier-Patience,25.03.1980,180,75,Right,1998
+Rachidi Y.,Morocco,Younes-Rachidi,13.09.1986,Right
+Recouderc L.,France,Laurent-Recouderc,10.07.1984,Right
+Sousa P.,Portugal,Pedro-Sousa,27.05.1988,180,68,Right,2007
+Schwank E.,Argentina,Eduardo-Schwank,23.04.1986,183,83,Right,2005
+De Chaunac S.,France,Sebastien-De-Chaunac,07.10.1977,183,74,Right,1998
+Stoppini A.,Italy,Andrea-Stoppini,29.02.1980,190,79,Right,1998
+Mamiit C.,Philippines,Cecil-Mamiit,27.06.1976,173,70,Right,1996
+Montcourt M.,France,Mathieu-Montcourt,183,75,Right,2002
+Mello R.,Brazil,Ricardo-Mello,21.12.1980,175,73,Left,1999
+Lee H.T.,Korea, Republic of,Hyung-Taik-Lee,03.01.1976,180,82,Right,1995
+Belic L.,Croatia,Luka-Belic,14.10.1988,Right
+Lejnieks K.,Latvia,Karlis-Lejnieks,16.03.1988,Right
+Iwabuchi S.,Japan,Satoshi-Iwabuchi,07.10.1975,175,73,Left
+Cabal J.S.,Colombia,Juan-Sebastian-Cabal,25.04.1986,185,82,Right
+Bogaerts R.,Belgium,Romain-Bogaerts,23.12.1993,188,76,Left
+Rodriguez B.,Mexico,Bruno-Rodriguez,28.10.1986,Right
+Britton D.,United States,Devin-Britton,17.03.1991,193,84,Right,2009
+Hossam K.,Egypt,Karim-Hossam,08.04.1994,Right
+Gensse A.,France,Augustin-Gensse,10.08.1983,180,Right,2001
+Cervenak P.,Slovakia,Pavol-Cervenak,01.07.1987,190,77,Right
+Vemic D.,Serbia,Dusan-Vemic,17.06.1976,190,92,Right,1995
+Niemeyer F.,Canada,Frederic-Niemeyer,24.04.1976,190,82,Right,1998
+Bogdanovic A.,Great Britain,Alex-Bogdanovic,22.05.1984,183,74,Left,2002
+Erlich J.,Israel,Jonathan-Erlich,05.04.1977,180,78,Right,1996
+Carbonell T.,Spain,Tomas-Carbonell,07.08.1968,178,72,Right,1987
+Paes L.,India,Leander-Paes,17.06.1973,178,78,Right,1991
+Noah Y.,France,Yannick-Noah,18.05.1960,193,82,Right
+Carlsson K.,Sweden,Kent-Carlsson,03.01.1968,180,72,Right
+Fish M.,United States,Mardy-Fish,09.12.1981,188,82,Right,2000
+Witsken T.,United States,Todd-Witsken,183,79,Right,1985
+Johnson D.,United States,Donald-Johnson,09.09.1968,190,84,Left,1992
+Mancini A.,Argentina,Alberto-Mancini,20.05.1969,180,79,Right,1987
+Bryan M.,United States,Mike-Bryan,29.04.1978,190,84,Right,1998
+Nalbandian D.,Argentina,David-Nalbandian,180,79,Right,2000
+Tipsarevic J.,Serbia,Janko-Tipsarevic,22.06.1984,180,80,Right,2002
+Rosset M.,Switzerland,Marc-Rosset,07.11.1970,201,88,Right,1988
+Koubek S.,Austria,Stefan-Koubek,02.01.1977,175,68,Left,1994
+Cancellotti F.,Italy,Francesco-Cancellotti,27.02.1963,183,75,Right
+Arrese J.,Spain,Jordi-Arrese,29.08.1964,175,64,Right,1982
+Mirnyi M.,Belarus,Max-Mirnyi,06.07.1977,196,93,1996
+Martin T.,United States,Todd-Martin,08.07.1970,198,91,Right,1990
+Holm H.,Sweden,Henrik-Holm,22.08.1968,183,77,Right,1988
+Washington M.,United States,MaliVai-Washington,20.06.1969,180,79,Right,1989
+Spadea V.,United States,Vincent-Spadea,19.07.1974,183,77,Right,1993
+Eltingh J.,Netherlands,Jacco-Eltingh,188,80,Right,1988
+Flach K.,United States,Ken-Flach,24.05.1963,185,75,Right,1983
+Davin F.,Argentina,Franco-Davin,11.01.1970,173,64,Left,1986
+Volkov A.,Russian Federation,Alexander-Volkov,03.03.1967,188,79,Left,1988
+Kucera K.,Slovakia,Karol-Kucera,04.03.1974,188,77,Right,1992
+Adams D.,South Africa,David-Adams,05.01.1970,188,79,Right,1989
+Puerta M.,Argentina,Mariano-Puerta,19.09.1978,180,78,Left,1998
+El Aynaoui Y.,Morocco,Younes-F-El-Aynaoui,12.09.1971,193,86,Right,1990
+Rostagno D.,United States,Derrick-Rostagno,25.10.1965,185,75,Right,1986
+Annacone P.,United States,Paul-Annacone,20.03.1963,185,79,Right,1984
+Calleri A.,Argentina,Agustin-Calleri,14.09.1976,183,86,Right,1995
+Moya C.,Spain,Carlos-Moya,27.08.1976,190,86,Right,1995
+Ancic M.,Croatia,Mario-Ancic,196,82,Right,2001
+McEnroe P.,United States,Patrick-McEnroe,01.07.1966,183,73,Right,1988
+Chesnokov A.,Russian Federation,Andrei-Chesnokov,02.02.1966,188,76,Right,1985
+Pavel A.,Romania,Andrei-Pavel,27.01.1974,183,86,Right,1995
+Testerman B.,United States,Ben-Testerman,02.02.1962,185,82,Left
+Chela J.I.,Argentina,Juan-Ignacio-Chela,30.08.1979,190,75,Right,1998
+Clavet F.,Spain,Francisco-Clavet,24.10.1968,183,71,Left,1988
+Champion T.,France,Thierry-Champion,31.08.1966,183,70,Right
+Draper S.,Australia,Scott-Draper,05.06.1974,178,77,Left,1993
+Gilbert B.,United States,Brad-Gilbert,09.08.1961,185,79,Right,1982
+Gustafsson M.,Sweden,Magnus-Gustafsson,03.01.1967,185,78,Right,1986
+Krickstein A.,United States,Aaron-Krickstein,02.08.1967,183,73,Right,1983
+Pimek L.,Belgium,Libor-Pimek,03.08.1963,196,82,Right,1982
+Knowle J.,Austria,Julian-Knowle,29.04.1974,188,75,Left,1992
+Furlan R.,Italy,Renzo-Furlan,17.05.1970,175,70,Right,1988
+Forget G.,France,Guy-Forget,04.01.1965,190,80,Left,1982
+Dreekmann H.,Germany,Hendrik-Dreekmann,29.01.1975,188,82,Right,1991
+Enqvist T.,Sweden,Thomas-Enqvist,13.03.1974,190,88,Right,1991
+Bruguera S.,Spain,Sergi-Bruguera,16.01.1971,188,76,Right,1988
+Connell G.,Canada,Grant-Connell,17.11.1965,185,82,Left,1986
+Filippini M.,Uruguay,Marcelo-Filippini,04.08.1967,178,66,Right,1987
+Prpic G.,Croatia,Goran-Prpic,04.05.1964,180,75,Right,1984
+Ferrero J.C.,Spain,Juan-Carlos-Ferrero,12.02.1980,183,73,Right,1998
+Ljubicic I.,Croatia,Ivan-Ljubicic,193,92,Right,1998
+Sampras P.,United States,Pete-Sampras,12.08.1971,185,77,Right,1988
+Camporese O.,Italy,Omar-Camporese,08.05.1968,188,78,Right,1987
+Reneberg R.,United States,Richey-Reneberg,05.10.1965,180,77,Right,1987
+Coria G.,Argentina,Guillermo-Coria,13.01.1982,175,69,Right,2000
+Fitzgerald J.,Australia,John-Fitzgerald,28.12.1960,183,77,Right,1980
+Wilander M.,Sweden,Mats-Wilander,22.08.1964,183,77,Right,1981
+Larsson M.,Sweden,Magnus-Larsson,25.03.1970,193,93,Right,1989
+Pate D.,United States,David-Pate,16.04.1962,183,77,Right,1983
+Grosjean S.,France,Sebastien-Grosjean,29.05.1978,175,73,Right,1996
+Woodbridge T.,Australia,Todd-Woodbridge,02.04.1971,178,75,Right,1988
+Caratti C.,Italy,Cristiano-Caratti,24.05.1970,178,77,Right,1989
+Acasuso J.,Argentina,Jose-Acasuso,20.10.1982,190,86,Right,1999
+Sa A.,Brazil,Andre-Sa,06.05.1977,185,74,Right,1996
+Zivojinovic S.,Yugoslavia,Slobodan-Zivojinovic,23.07.1963,198,100,Right
+Ram A.,Israel,Andy-Ram,10.04.1980,180,83,Right,1998
+Cherkasov A.,Russian Federation,Andrei-Cherkasov,04.07.1970,180,75,Right,1988
+Safin M.,Russian Federation,Marat-Safin,193,88,Right,1997
+Dosedel S.,Czech Republic,Slava-Dosedel,14.08.1970,183,79,Right,1989
+Jarryd A.,Sweden,Anders-Jarryd,13.07.1961,180,70,Right,1980
+Black B.,Zimbabwe,Byron-Black,06.10.1969,175,70,Right,1991
+Knowles M.,Bahamas,Mark-Knowles,04.09.1971,190,88,Right,1992
+Arazi H.,Morocco,Hicham-Arazi,19.10.1973,175,65,Left,1993
+Leach R.,United States,Rick-Leach,28.12.1964,188,84,Left,1987
+Costa A.,Spain,Albert-Costa,25.06.1975,180,78,Right,1993
+Harmon R.,United States,Rodney-Harmon,16.08.1961,188,82,Right
+Kuerten G.,Brazil,Gustavo-Kuerten,10.09.1976,190,83,Right,1995
+Grabb J.,United States,Jim-Grabb,14.04.1964,193,82,Right,1986
+Johansson J.,Sweden,Joachim-Johansson,01.07.1982,198,90,Right,2000
+Andreev I.,Russian Federation,Igor-Andreev,14.07.1983,185,80,Right,2002
+Krishnan R.,India,Ramesh-Krishnan,05.06.1961,170,64,Right,1978
+Squillari F.,Argentina,Franco-Squillari,22.08.1975,183,80,Left,1994
+Seguso R.,United States,Robert-Seguso,01.05.1963,190,82,Right
+Sundstrom H.,Sweden,Henrik-Sundstrom,29.02.1964,188,73,Right
+Bhupathi M.,India,Mahesh-Bhupathi,07.06.1974,185,88,Right,1995
+Clement A.,France,Arnaud-Clement,17.12.1977,173,73,Right,1996
+Mansdorf A.,Israel,Amos-Mansdorf,20.10.1965,175,73,Right,1983
+Ullyett K.,Zimbabwe,Kevin-Ullyett,23.05.1972,178,77,Right,1990
+Ferreira W.,South Africa,Wayne-Ferreira,15.09.1971,185,85,Right,1989
+Pioline C.,France,Cedric-Pioline,15.06.1969,188,79,Right,1989
+Nystrom J.,Sweden,Joakim-Nystrom,20.02.1963,188,70,Right
+Berasategui A.,Spain,Alberto-Berasategui,28.06.1973,173,66,Right,1991
+Rusedski G.,Great Britain,Greg-Rusedski,06.09.1973,193,91,Left,1991
+Ivanisevic G.,Croatia,Goran-Ivanisevic,13.09.1971,193,82,Left,1988
+Haarhuis P.,Netherlands,Paul-Haarhuis,188,80,Right,1989
+Karbacher B.,Germany,Bernd-Karbacher,03.04.1968,185,73,Right,1989
+Hrbaty D.,Slovakia,Dominik-Hrbaty,04.01.1978,183,79,Right,1996
+Rafter P.,Australia,Patrick-Rafter,28.12.1972,185,86,Right,1991
+Kafelnikov Y.,Russian Federation,Yevgeny-Kafelnikov,18.02.1974,190,84,Right,1992
+Johansson T.,Sweden,Thomas-Johansson,24.03.1975,180,80,Right,1994
+Kiefer N.,Germany,Nicolas-Kiefer,183,80,Right,1995
+Jaite M.,Argentina,Martin-Jaite,09.10.1964,178,70,Right,1983
+Jones K.,United States,Kelly-Jones,31.03.1964,185,76,Right,1986
+Agenor R.,United States,Ronald-Agenor,13.11.1964,180,82,Right,1983
+Meligeni F.,Brazil,Fernando-Meligeni,12.04.1971,180,64,Left,1990
+Gomez A.,Ecuador,Andres-Gomez,27.02.1960,193,84,Left,1979
+Fromberg R.,Australia,Richard-Fromberg,28.04.1970,196,88,Right,1988
+Gaudio G.,Argentina,Gaston-Gaudio,09.12.1978,175,70,Right,1996
+Pernfors M.,Sweden,Mikael-Pernfors,16.07.1963,173,68,Right,1985
+Aldrich P.,South Africa,Pieter-Aldrich,07.09.1965,180,80,Right,1987
+Becker B.,Germany,Boris-Becker,22.11.1967,190,85,Right,1984
+Masur W.,Australia,Wally-Masur,13.05.1963,180,76,Right,1982
+Dewulf F.,Belgium,Filip-Dewulf,15.03.1972,190,80,Right,1990
+Anger M.,United States,Matt-Anger,20.06.1963,188,77,Right,1984
+Woodforde M.,Australia,Mark-Woodforde,23.09.1965,188,88,Left,1984
+Tulasne T.,France,Thierry-Tulasne,12.07.1963,178,73,Right
+Stoltenberg J.,Australia,Jason-Stoltenberg,04.04.1970,185,80,Right,1987
+Dent T.,United States,Taylor-Dent,24.04.1981,188,88,Right,1998
+Davis S.,United States,Scott-Davis,27.08.1962,188,77,Right,1983
+Srichaphan P.,Thailand,Paradorn-Srichaphan,14.06.1979,185,82,Right,1997
+Wheaton D.,United States,David-Wheaton,02.06.1969,193,84,Right,1988
+Srejber M.,Czech Republic,Milan-Srejber,30.12.1963,203,98,Right
+Mayotte T.,United States,Tim-Mayotte,03.08.1960,190,84,Right
+Novacek K.,Czech Republic,Karel-Novacek,30.03.1965,190,82,Right,1984
+Mantilla F.,Spain,Felix-Mantilla,23.09.1974,180,78,Right,1993
+Visser D.,South Africa,Danie-Visser,26.07.1961,180,79,Left,1982
+Canas G.,Argentina,Guillermo-Canas,25.11.1977,185,86,Right,1995
+Edberg S.,Sweden,Stefan-Edberg,19.01.1966,188,77,Right,1983
+Horna L.,Peru,Luis-Horna,14.09.1980,180,82,Right,1998
+Stich M.,Germany,Michael-Stich,18.10.1968,193,79,Right,1988
+Norman M.,Sweden,Magnus-Norman,30.05.1976,188,90,Right,1995
+Zabaleta M.,Argentina,Mariano-Zabaleta,28.02.1978,183,77,Right,1996
+Goldie D.,United States,Dan-Goldie,03.10.1963,188,79,Right
+Stolle S.,Australia,Sandon-Stolle,13.07.1970,193,79,Right,1991
+Novak J.,Czech Republic,Jiri-Novak,22.03.1975,190,86,Right,1993
+Bates J.,Great Britain,Jeremy-Bates,19.06.1962,180,73,Right,1982
+Nestor D.,Canada,Daniel-Nestor,04.09.1972,190,86,Left,1991
+Golmard J.,France,Jerome-Golmard,09.09.1973,188,77,Left,1993
+Lendl I.,United States,Ivan-Lendl,07.03.1960,188,79,Right,1978
+Krajicek R.,Netherlands,Richard-Krajicek,06.12.1971,196,89,Right,1989
+Bergstrom C.,Sweden,Christian-Bergstrom,19.07.1967,180,68,Right,1985
+Blake J.,United States,James-Blake,28.12.1979,185,83,Right,1999
+Moodie W.,South Africa,Wesley-Moodie,14.02.1979,196,91,Right,2000
+Lapentti N.,Ecuador,Nicolas-Lapentti,13.08.1976,188,86,Right,1995
+Palmer J.,United States,Jared-Palmer,02.07.1971,190,84,Right,1991
+Lundgren P.,Sweden,Peter-Lundgren,29.01.1965,185,80,Right,1983
+Voinea A.,Romania,Adrian-Voinea,06.08.1974,185,73,Right,1993
+Philippoussis M.,Australia,Mark-Philippoussis,07.11.1976,196,103,Right,1994
+Rios M.,Chile,Marcelo-Rios,26.12.1975,175,73,Left,1994
+Gaudenzi A.,Italy,Andrea-Gaudenzi,30.07.1973,183,84,Right,1990
+Galbraith P.,United States,Patrick-Galbraith,16.04.1967,183,73,Left,1989
+Korda P.,Czech Republic,Petr-Korda,23.01.1968,190,73,Left,1987
+Massu N.,Chile,Nicolas-Massu,10.10.1979,183,80,Right,1997
+Agassi A.,United States,Andre-Agassi,29.04.1970,180,80,Right,1986
+Leconte H.,France,Henri-Leconte,04.07.1963,185,79,Left,1980
+Bryan B.,United States,Bob-Bryan,29.04.1978,193,88,Left,1998
+Cash P.,Australia,Pat-Cash,27.05.1965,183,84,Right,1982
+Suk C.,Czech Republic,Cyril-Suk,29.01.1967,180,80,Right,1988
+Verkerk M.,Netherlands,Martin-Verkerk,31.10.1978,196,90,Right,1996
+Black W.,Zimbabwe,Wayne-Black,14.11.1973,170,70,Right,1994
+Woodruff C.,United States,Chris-Woodruff,02.01.1973,188,82,Right,1993
+Stark J.,United States,Jonathan-Stark,03.04.1971,188,84,Right,1991
+Bjorkman J.,Sweden,Jonas-Bjorkman,23.03.1972,183,83,Right,1991
+Alami K.,Morocco,Karim-Alami,24.05.1973,185,85,Right,1990
+Steven B.,New Zealand,Brett-Steven,27.04.1969,185,77,Right,1988
+Berger J.,United States,Jay-Berger,26.11.1966,180,75,Right,1986
+Skoff H.,Austria,Horst-Skoff,175,73,Right,1985
+Aguilera J.,Spain,Juan-Aguilera,22.03.1962,183,68,Right,o: 0
+Siemerink J.,Netherlands,Jan-Siemerink,14.04.1970,183,73,Left,1989
+Huss S.,Australia,Stephen-Huss,10.12.1975,180,74,Right,2000
+Hlasek J.,Switzerland,Jakob-Hlasek,12.11.1964,188,78,Right,1983
+Santoro F.,France,Fabrice-Santoro,178,74,Right,1989
+Kulti N.,Sweden,Nicklas-Kulti,22.04.1971,190,88,Right,1989
+Henman T.,Great Britain,Tim-Henman,06.09.1974,185,77,Right,1993
+Sanchez E.,Spain,Emilio-Sanchez,29.05.1965,180,74,Right,1984
+Stenlund U.,Sweden,Ulf-Stenlund,21.01.1967,180,70,Right
+Costa C.,Spain,Carlos-Costa,22.04.1968,183,73,Right,1988
+Schalken S.,Netherlands,Sjeng-Schalken,08.09.1976,193,82,Right,1994
+Yzaga J.,Peru,Jaime-Yzaga,23.10.1967,170,68,Right,1985
+Muster T.,Austria,Thomas-Muster,02.10.1967,180,77,Left,1985
+Matsuoka S.,Japan,Shuzo-Matsuoka,06.11.1967,185,80,Right,1986
+Chang M.,United States,Michael-Chang,22.02.1972,175,73,Right,1988
+Popp A.,Germany,Alexander-Popp,04.11.1976,201,85,Right,1997
+Roddick A.,United States,Andy-Roddick,188,88,Right,2000
+Corretja A.,Spain,Alex-Corretja,11.04.1974,180,73,Right,1991
+Blanco G.,Spain,Galo-Blanco,08.10.1976,173,68,Right,1995
+Escude N.,France,Nicolas-Escude,03.04.1976,185,70,Right,1995
+Warder L.,Australia,Laurie-Warder,23.10.1962,183,79,Right,1982
+Arias J.,United States,Jimmy-Arias,16.08.1964,175,70,Right,1980
+Gonzalez F.,Chile,Fernando-Gonzalez,29.07.1980,183,82,Right,1999
+Soderling R.,Sweden,Robin-Soderling,14.08.1984,193,87,Right,2001
+Medvedev A.,Ukraine,Andrei-Medvedev,31.08.1974,193,91,Right,1991
+Tillstrom M.,Sweden,Mikael-Tillstrom,05.03.1972,185,73,Right,1991
+Zimonjic N.,Serbia,Nenad-Zimonjic,04.06.1976,190,91,Right,1995
+Malisse X.,Belgium,Xavier-Malisse,19.07.1980,185,83,Right,1998
+Reyes-Varela M.A.,Mexico,Miguel-Angel-Reyes-Varela,21.06.1987,Right
+Sidorenko A.,France,Alexandre-Sidorenko,18.02.1988,Right
+Ramirez-Hidalgo R.,Spain,Ruben-Ramirez-Hidalgo,06.01.1978,183,74,Right,1998
+Dabul B.,Argentina,Brian-Dabul,24.02.1984,170,70,Left,2001
+Jun W.S.,Korea, Republic of,Woong-Sun-Jun,14.06.1986,190,90,Right,2005

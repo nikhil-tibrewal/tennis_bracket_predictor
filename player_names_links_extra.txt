@@ -1,0 +1,55 @@
+Jordi,Samper-Montana,Jordi-Samper-Montana,http://www.atpworldtour.com/Tennis/Players/Sa/J/Jordi-Samper-Montana.aspx
+Enrique,Lopez-Perez,Enrique-Lopez-Perez,http://www.atpworldtour.com/Tennis/Players/Lo/E/Enrique-Lopez-Perez.aspx
+Oriol,Roca Batalla,Oriol-Roca-Batalla,http://www.atpworldtour.com/Tennis/Players/Ro/O/Oriol-Roca-Batalla.aspx
+Antal,Van Der Duim,Antal-Van-Der-Duim,http://www.atpworldtour.com/Tennis/Players/Va/A/Antal-Van-Der-Duim.aspx
+Liang-Chi,Huang,Liang-Chi-Huang,http://www.atpworldtour.com/Tennis/Players/Hu/L/Liang-Chi-Huang.aspx
+Roberto,Ortega-Olmedo,Roberto-Ortega-Olmedo,http://www.atpworldtour.com/Tennis/Players/Or/R/Roberto-Ortega-Olmedo.aspx
+Frederico Ferreira,Silva,Frederico-Ferreira-Silva,http://www.atpworldtour.com/Tennis/Players/Si/F/Frederico-Ferreira-Silva.aspx
+Juan Carlos,Saez,Juan-Carlos-Saez,http://www.atpworldtour.com/Tennis/Players/Sa/J/Juan-Carlos-Saez.aspx
+Ricardo,Rodriguez - Pace,Ricardo-Rodriguez---Pace,http://www.atpworldtour.com/Tennis/Players/Ro/R/Ricardo-Rodriguez-Pace.aspx
+Jaime,Pulgar-Garcia,Jaime-Pulgar-Garcia,http://www.atpworldtour.com/Tennis/Players/Pu/J/Jaime-Pulgar-Garcia.aspx
+Zhe Li,,Zhe-Li-,http://www.atpworldtour.com/Tennis/Players/Li/Z/Zhe-Li.aspx
+David,Perez Sanz,David-Perez-Sanz,http://www.atpworldtour.com/Tennis/Players/Pe/D/David-Perez-Sanz.aspx
+Christopher,Diaz-Figueroa,Christopher-Diaz-Figueroa,http://www.atpworldtour.com/Tennis/Players/Di/C/Christopher-Diaz-Figueroa.aspx
+Johan Sebastien,Tatlot,Johan-Sebastien-Tatlot,http://www.atpworldtour.com/Tennis/Players/Ta/J/Johan-Sebastien-Tatlot.aspx
+Ricardo,Ojeda Lara,Ricardo-Ojeda-Lara,http://www.atpworldtour.com/Tennis/Players/Oj/R/Ricardo-Ojeda-Lara.aspx
+Cheong-Eui,Kim,Cheong-Eui-Kim,http://www.atpworldtour.com/Tennis/Players/Ki/C/Cheong-Eui-Kim.aspx
+Mateo Nicolas,Martinez,Mateo-Nicolas-Martinez,http://www.atpworldtour.com/Tennis/Players/Ma/M/Mateo-Nicolas-Martinez.aspx
+Guillermo,Rivera-Aranguiz,Guillermo-Rivera-Aranguiz,http://www.atpworldtour.com/Tennis/Players/Ri/G/Guillermo-Rivera-Aranguiz.aspx
+Juan Pablo,Paz,Juan-Pablo-Paz,http://www.atpworldtour.com/Tennis/Players/Pa/J/Juan-Pablo-Paz.aspx
+David,Vega Hernandez,David-Vega-Hernandez,http://www.atpworldtour.com/Tennis/Players/Ve/D/David-Vega-Hernandez.aspx
+Tomas,Lipovsek Puches,Tomas-Lipovsek-Puches,http://www.atpworldtour.com/Tennis/Players/Li/T/Tomas-Lipovsek-Puches.aspx
+Ji Sung,Nam,Ji-Sung-Nam,http://www.atpworldtour.com/Tennis/Players/Na/J/Ji-Sung-Nam.aspx
+Juan-Samuel,Arauzo-Martinez,Juan-Samuel-Arauzo-Martinez,http://www.atpworldtour.com/Tennis/Players/Ar/J/Juan-Samuel-Arauzo-Martinez.aspx
+Ivan,Arenas-Gualda,Ivan-Arenas-Gualda,http://www.atpworldtour.com/Tennis/Players/Ar/I/Ivan-Arenas-Gualda.aspx
+Jean-Yves,Aubone,Jean-Yves-Aubone,http://www.atpworldtour.com/Tennis/Players/Au/J/Jean-Yves-Aubone.aspx
+Gavin,Van Peperzeel,Gavin-Van-Peperzeel,http://www.atpworldtour.com/Tennis/Players/Va/G/Gavin-Van-Peperzeel.aspx
+Daniel,Dutra da Silva,Daniel-Dutra-da-Silva,http://www.atpworldtour.com/Tennis/Players/Si/D/Daniel-Dutra-Da-Silva.aspx
+Yong-Kyu,Lim,Yong-Kyu-Lim,http://www.atpworldtour.com/Tennis/Players/Li/Y/Yong-Kyu-Lim.aspx
+Gabriel Alejandro,Hidalgo,Gabriel-Alejandro-Hidalgo,http://www.atpworldtour.com/Tennis/Players/Hi/G/Gabriel-Alejandro-Hidalgo.aspx
+N Vijay Sundar,Prashanth,N-Vijay-Sundar-Prashanth,http://www.atpworldtour.com/Tennis/Players/Pr/N/N-Vijay-Sundar-Prashanth.aspx
+Tak Khunn,Wang,Tak-Khunn-Wang,http://www.atpworldtour.com/Tennis/Players/Wa/T/Tak-Khunn-Wang.aspx
+Farris Fathi,Gosea,Farris-Fathi-Gosea,http://www.atpworldtour.com/Tennis/Players/Gh/F/Farris-Fathi-Gosea.aspx
+Juan Sebastian,Gomez,Juan-Sebastian-Gomez,http://www.atpworldtour.com/Tennis/Players/Go/J/Juan-Sebastian-Gomez.aspx
+Jose,Checa-Calvo,Jose-Checa-Calvo,http://www.atpworldtour.com/Tennis/Players/Ch/J/Jose-Checa-Calvo.aspx
+Min-Hyeok,Cho,Min-Hyeok-Cho,http://www.atpworldtour.com/Tennis/Players/Ch/M/Min-Hyeok-Cho.aspx
+Marcos,Giraldi Requena,Marcos-Giraldi-Requena,http://www.atpworldtour.com/Tennis/Players/Gi/M/Marcos-Giraldi-Requena.aspx
+Catalin-Ionut,Gard,Catalin-Ionut-Gard,http://www.atpworldtour.com/Tennis/Players/Ga/C/Catalin-Ionut-Gard.aspx
+Albert,Alcaraz Ivorra,Albert-Alcaraz-Ivorra,http://www.atpworldtour.com/Tennis/Players/Al/A/Albert-Alcaraz-Ivorra.aspx
+Tom,Kocevar-Desman,Tom-Kocevar-Desman,http://www.atpworldtour.com/Tennis/Players/Ko/T/Tom-Kocevar-Desman.aspx
+Luis David,Martinez,Luis-David-Martinez,http://www.atpworldtour.com/Tennis/Players/Ma/L/Luis-David-Martinez.aspx
+Gaston-Arturo,Grimolizzi,Gaston-Arturo-Grimolizzi,http://www.atpworldtour.com/Tennis/Players/Gr/G/Gaston-Arturo-Grimolizzi.aspx
+Juan Ignacio,Galarza,Juan-Ignacio-Galarza,http://www.atpworldtour.com/Tennis/Players/Ga/J/Juan-Ignacio-Galarza.aspx
+Pol,Toledo Bague,Pol-Toledo-Bague,http://www.atpworldtour.com/Tennis/Players/To/P/Pol-Toledo-Bague.aspx
+Joao Pedro,Sorgi,Joao-Pedro-Sorgi,http://www.atpworldtour.com/Tennis/Players/So/J/Joao-Pedro-Sorgi.aspx
+Juan-Carlos,Spir,Juan-Carlos-Spir,http://www.atpworldtour.com/Tennis/Players/Sp/J/Juan-Carlos-Spir.aspx
+Juan Pablo,Ficovich,Juan-Pablo-Ficovich,http://www.atpworldtour.com/Tennis/Players/Fi/J/Juan-Pablo-Ficovich.aspx
+Juan Ignacio,Ameal,Juan-Ignacio-Ameal,http://www.atpworldtour.com/Tennis/Players/Am/J/Juan-Ignacio-Ameal.aspx
+Javier,Pulgar-Garcia,Javier-Pulgar-Garcia,http://www.atpworldtour.com/Tennis/Players/Pu/J/Javier-Pulgar-Garcia.aspx
+Juan Pablo,Varillas Patino-Samudio,Juan-Pablo-Varillas-Patino-Samudio,http://www.atpworldtour.com/Tennis/Players/Va/J/Juan-Pablo-Varillas-Patino-Samudio.aspx
+Ricardo,Urzua-Rivera,Ricardo-Urzua-Rivera,http://www.atpworldtour.com/Tennis/Players/Ur/R/Ricardo-Urzua-Rivera.aspx
+Carlos,Boluda-Purkiss,Carlos-Boluda-Purkiss,http://www.atpworldtour.com/Tennis/Players/Bo/C/Carlos-Boluda-Purkiss.aspx
+Issam Haitham,Taweel,Issam-Haitham-Taweel,http://www.atpworldtour.com/Tennis/Players/Ta/I/Issam-Haitham-Taweel.aspx
+Joshua,Ward Hibbert,Joshua-Ward-Hibbert,http://www.atpworldtour.com/Tennis/Players/Wa/J/Joshua-Ward-Hibbert.aspx
+Andre,Gaspar Murta,Andre-Gaspar-Murta,http://www.atpworldtour.com/Tennis/Players/Ga/A/Andre-Gaspar-Murta.aspx
+Woong,Sun-Jun,Woong-Sun-Jun,http://www.atpworldtour.com/Tennis/Players/Ju/W/Woong-Sun-Jun.aspx

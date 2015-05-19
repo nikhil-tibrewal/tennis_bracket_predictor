@@ -1,0 +1,9 @@
+Trujillo G.,Spain,Gabriel-Trujillo-Soler,30.09.1979,Right
+Munoz de la Nava D.,Spain,Daniel-Munoz-De-La-Nava,29.01.1982,178,75,Left,1999
+Jones G.D.,New Zealand,G-D-Jones,01.04.1986,183,72,Right
+Zayed M. S.,Qatar,Mousa-Shanan-Zayed,09.03.1994,Right
+Gutierrez-Ferrol S.,Spain,Sergio-Gutierrez-Ferrol,05.03.1989,Right
+Brugues-Davi A.,Spain,Arnau-Brugues-Davi,05.03.1985,183,82,Left,2009
+Brugues-Davi A.,Spain,Albert-Brugues-Davi,27.02.1988,Left,2009
+Dolgopolov O.,Ukraine,Oleksandr-Dolgopolov-Sr,10.07.1964,Right
+Salva B.,Spain,Bartolome-Salva-Vidal,20.11.1986,183,79,Left
