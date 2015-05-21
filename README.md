@@ -26,6 +26,13 @@ Both branches ignore some matches such as retired. In the future, I'd also like 
 
 These implementations use Logistic Regression to predict winner and loser. The biggest limitation of this model is the size of the data set. Even over 7 years of data, there's only 17000 matches. Furthermore, a lot of these players (especially the low ranked ones) do not have enough bio data (in which case their matches are ignored). Yet, to mirror real world ML applications, I'm implementing an approach where the first 13000 matches are used as training set, and the remaining are used as test set.
 
+# Running the script
+To run this script, just clone the repo and run
+```
+python mastermind.py
+```
+All the preprocessing is done and exists in the relevant .txt files. If you happen to delete any of them, you'll have to run the crawlers to get the data (or you could just clone again :))
+
 # Future of this implementation
 I love tennis! So I'm definitely going to pick this up again. Add more features to it, try out other classifiers, and eventually build a small fun webapp that has two fields to choose players and will tell the user which player will win if they were to play against each other.
 
